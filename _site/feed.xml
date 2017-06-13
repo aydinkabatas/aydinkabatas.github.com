@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-06-13T12:57:14+03:00</updated><id>http://localhost:4000/</id><title type="html">Kişisel Bir Blog</title><subtitle>Aydın Kabataş'ın nevi şahsına münhasır blog sitesidir.</subtitle><author><name>Aydın Kabataş</name><email>aydin.kabatas@hotmail.com</email></author><entry><title type="html">Hello World!</title><link href="http://localhost:4000/articles/hello-world/" rel="alternate" type="text/html" title="Hello World!" /><published>2017-06-13T00:00:00+03:00</published><updated>2017-06-13T00:00:00+03:00</updated><id>http://localhost:4000/articles/hello-world</id><content type="html" xml:base="http://localhost:4000/articles/hello-world/">&lt;p&gt;Çok uzun zaman önce, ilk blog sitemi açtığımda (yaklaşık 6 yıl önce) bir “Hello World” yazısı yazmıştım. O yazı içerisinde hâlâ hatırladığım bir cümle var.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;blockquote&gt;
+    &lt;p&gt;Çoğu programcı ilk programına bir “Hello World” yazısı ile başlar. Çünkü her bir programlama dili, yeni bir dünyadır ve o dünyayı keşfetmeye yeniden başlamaktır.&lt;/p&gt;
+  &lt;/blockquote&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Şimdi düşününce, sanırım biraz saçma bir giriş olmuş. Gerçi aradan 6 yıl geçmesine rağmen hâlâ iyi bir programcı ve önsöz yazıcısı olamadığım görülüyor.&lt;/p&gt;
+
+&lt;p&gt;Buna rağmen pes etmeyi ve “&lt;em&gt;ben yapamıyorum&lt;/em&gt;” deyip işin kolayına kaçmayı da hiç yakıştıramıyorum kendime. Gerçi bir ara iyi yakışmıştı, ama artık silkelenmenin vaktinin geldiğini düşünüyorum.&lt;/p&gt;
+
+&lt;p&gt;Dile kolay, 5 yıldır programlama ile uğraşmıyorum. Bu süre zarfında tabi ki başka meşgalelerim oldu. Örneğin okuduğum bölüm olan istatistik anabilim dalı üzerine çalışmalarımı yoğunlaştırdım ve SPSS - NebimV3 - QlikView programları üzerinde ciddi ilerlemeler katettim. Fakat şu bir gerçek ki, &lt;strong&gt;algoritma üretemedikçe beynim ölüyor!&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Tabi ki bu mecazi bir kavram. Fakat 5 yıl önceki herşeyi başarabileceğini düşünen ve kavrama kabiliyeti yüksek olan ben ile şu anki ben arasında gözle görülür, hisle hissedilir bir fark var. Peki 5 yıl önce ne yapıyordum?&lt;/p&gt;
+
+&lt;p&gt;Cevap: &lt;strong&gt;kodlama&lt;/strong&gt;. Sürekli bilgisayar kodları yazıp, kod üretip zihnimi tazeliyordum. Ben de 5 yıl geçmiş olsa bile hatanın neresinden dönülse kârdır deyip geçenlerde yeniden blog yazmaya karar verdim. Tabi bunun önceki &lt;a href=&quot;http://www.aydinkabatas.tumblr.com&quot;&gt;Tumblr&lt;/a&gt; blogumdan farklı olmasını ve &lt;em&gt;elimi koda bulayıp&lt;/em&gt; kendi blogumu kodlamayı seçtim. Daha sonra &lt;a href=&quot;http://www.github.io&quot;&gt;Github&lt;/a&gt; üzerinden kodlamaları incelerken &lt;a href=&quot;http://www.jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt; ile tanışınca “neden github üzerinde jekyll ile blog açmak varken sıfırdan yazayım ki” diye düşündüm. Tabi beni asıl cezbeden, bu blog sayfasının bir &lt;strong&gt;veritabanına&lt;/strong&gt; ihtiyaç duymamasıydı. Ben de hem deneme hem de yeniden sahalara dönme açısından bu blogu açmış bulundum.&lt;/p&gt;
+
+&lt;p&gt;Tüm bu siteye ait kodlamaları benim &lt;a href=&quot;https://www.github.com/aydinkabatas&quot;&gt;Github&lt;/a&gt; adresimden inceleyebilir, &lt;a href=&quot;https://www.creativecommons.org&quot;&gt;ticari amaçlı olmadığı&lt;/a&gt; müddetçe kullanabilirsiniz.&lt;/p&gt;</content><author><name>Aydın Kabataş</name><email>aydin.kabatas@hotmail.com</email></author><category term="articles" /><summary type="html">Çok uzun zaman önce, ilk blog sitemi açtığımda (yaklaşık 6 yıl önce) bir “Hello World” yazısı yazmıştım. O yazı içerisinde hâlâ hatırladığım bir cümle var.</summary></entry></feed>
