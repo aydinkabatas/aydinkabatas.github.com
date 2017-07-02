@@ -21,7 +21,7 @@
 }
 
 .archive__subtitle {
-  margin: 1.414em 0 0;
+  margin: 1em 0 0;
   padding-bottom: 0.5em;
   font-size: $type-size-5;
   color: mix(#fff, $gray, 25%);
@@ -83,6 +83,7 @@
    ========================================================================== */
 
 .list__item {
+  /* ==========================================================  Start Bullshit
   @include breakpoint($medium) {
     padding-right: $right-sidebar-width-narrow;
   }
@@ -93,10 +94,11 @@
 
   @include breakpoint($x-large) {
     padding-right: $right-sidebar-width-wide;
-  }
+  }  ==========================================================  End BullShit */
 
   .page__meta {
-    margin: 0 0 4px;
+    margin: 0 0 10px;
+    font-size:0.6em;
   }
 }
 

@@ -79,7 +79,7 @@ analytics:
 author:
   name             : "Aydın Kabataş"
   avatar           : "/assets/images/bio-photo.jpg"
-  bio              : "1992 doğumlu. Yükseklisans seviyesinde istatistikçi. Azıcık programcı. Hearthstone oyuncusu."
+  bio              : "1992 doğumlu, kahve bağımlısı, yükseklisans seviyesinde istatistikçi, azıcık programcı, Blizzard oyunları hastası."
   location         : "Bursa - Konya"
   email            : "aydin.kabatas@hotmail.com"
   uri              :
@@ -89,7 +89,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : "aydinkabatas"
   google_plus      :
   keybase          :
   instagram        :
@@ -99,12 +99,12 @@ author:
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
   steam            :
-  tumblr           :
+  tumblr           : "aydinkabatas"
   twitter          :
   vine             :
   weibo            :
   xing             :
-  youtube          : # "https://youtube.com/c/MichaelRoseDesign"
+  youtube          : "https://www.youtube.com/c/aydinkabatas"
 
 
 # Reading Files
