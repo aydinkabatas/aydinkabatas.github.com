@@ -1,4 +1,4 @@
-﻿--- 
+--- 
 layout: single 
 name: twitch-ile-jekyll-ogreniyoruz
 title: "Twitch İle Jekyll Örneği"
