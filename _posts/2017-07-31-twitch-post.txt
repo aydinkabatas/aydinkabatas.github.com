@@ -1,0 +1,16 @@
+--- 
+layout: single 
+name: twitch-ile-jekyll-ogreniyoruz
+title: "Twitch Ýle Jekyll Örneði"
+category: articles
+time: 2017-07-31
+---
+
+31.07.2017 tarihli twitch yayýnýnda yapýlan jekyll site oluþturma postu. 3 posta...
+
+[Bu bir linktir](http://aydinkabatas.github.io).
+
+>> Don't be ordinary, be creative... *(Anonim)*
+
+Bu yazýda **KALIN** bir kelime kullanýlmýþtýr...
+
