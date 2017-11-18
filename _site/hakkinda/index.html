@@ -45,6 +45,18 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
   
 
   
@@ -69,6 +81,7 @@
       "sameAs" : null
     }
   </script>
+
 
 
 
@@ -107,7 +120,7 @@
   </style>
 <![endif]-->
 
-<meta http-equiv="cleartype" content="on">
+
     <!-- start custom head snippets -->
 
 <!-- insert favicons. use http://realfavicongenerator.net/ -->
@@ -118,8 +131,9 @@
   <body class="layout--single">
 
     <!--[if lt IE 9]>
-<div class="notice--danger align-center" style="margin: 0;">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</div>
+<div class="notice--danger align-center" style="margin: 0;">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience.</div>
 <![endif]-->
+
     <div class="masthead">
   <div class="masthead__inner-wrap">
     <div class="masthead__menu">
@@ -134,7 +148,10 @@
             <li class="masthead__menu-item"><a href="http://localhost:4000/hakkinda/">Hakkında</a></li>
           
         </ul>
-        <button><div class="navicon"></div></button>
+        <button type="button">
+          <span class="visually-hidden">Toggle Menu</span>
+          <div class="navicon"></div>
+        </button>
         <ul class="hidden-links hidden"></ul>
       </nav>
     </div>
@@ -155,7 +172,7 @@
   
     <div class="author__avatar">
       
-        <img src="http://localhost:4000/assets/images/bio-photo.jpg" class="author__avatar" alt="Aydın Kabataş" itemprop="image">
+        <img src="http://localhost:4000/assets/images/bio-photo.png" class="author__avatar" alt="Aydın Kabataş" itemprop="image">
       
     </div>
   
@@ -234,6 +251,8 @@
       
 
       
+
+      
         
           <li>
             <a href="https://www.youtube.com/c/aydinkabatas" itemprop="sameAs">
@@ -284,6 +303,7 @@
       
 
       <section class="page__content" itemprop="text">
+        
         <p>Bu web sitesi <a href="https://jekyllrb.com">Jekyll</a> kullanılarak, <a href="https://mmistakes.github.io/minimal-mistakes/">Minimal Mistakes</a> teması üzerine hazırlanmıştır.
 Ayrıca site barındırması ve kaynak kodların gösterimi olarak <a href="http://pages.github.com">Github Pages</a> kullanılmıştır.</p>
 
@@ -328,18 +348,24 @@ Ayrıca site barındırması ve kaynak kodların gösterimi olarak <a href="http
     
     
     
-      <li><a href="http://github.com/aydinkabatas"><i class="fa fa-fw fa-github" aria-hidden="true"></i> GitHub</a></li>
+      <li><a href="https://github.com/aydinkabatas"><i class="fa fa-fw fa-github" aria-hidden="true"></i> GitHub</a></li>
+    
     
     
     <li><a href="http://localhost:4000/feed.xml"><i class="fa fa-fw fa-rss-square" aria-hidden="true"></i> RSS</a></li>
   </ul>
 </div>
 
-<div class="page__footer-copyright">&copy; 2017 Aydın Kabataş. Emeği geçenler:  <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
+<div class="page__footer-copyright">&copy; 2017 Aydın Kabataş. Emeği geçenler:  <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
+
       </footer>
     </div>
 
-    <script src="http://localhost:4000/assets/js/main.min.js"></script>
+    
+  <script src="http://localhost:4000/assets/js/main.min.js"></script>
+
+
+
 
 
 

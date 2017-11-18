@@ -3,7 +3,6 @@ layout: single
 name: zor-gunler
 title: "Zor Günler"
 category: articles
-time: 2017-09-07
 ---
 
 Aslında herşey "Big Bang" adı verilen bir fenomen ile başladı. Maddeler ve anti maddeler savaşından maddeler galip geldi ve atomları oluşturdu. 
@@ -25,19 +24,17 @@ Son zamanlarda güzel günler yaşamadığım aşikar. Mantıksal açıdan bakı
 
 Güçlünün güçsüzü ezmesi, canlı doğasında bulunan bir gerçektir. Güçsüzler için iki durum söz konusudur. Ya güçlüleri aldatıp kendisi de güçlenecek, ya da iş birliği yapmak durumunda kalacaktır. Aksi durum, ezilmeye devam etmesi demektir.
 
-Afrika taklitçi kuşu, mirketleri ses taklidi ile aldatıp onların yemeklerini çalmakta. Bir başla kuş türü olan pusula kuşu, sizden alacağı bir yiyecek payına karşılık Afrika yerli kabilelerinin bireylerine bal kovanlarının yerini göstermektedir. Bu kuş pay almadığı taktirde sizi bir aslanın tuzağına ya da bir ayının mağarasına da götürebilir. karnınızın doyması ya da ölmeniz bu kuş ile yapacağınız ticaretin dürüstlüğüne bağlıdır.
+Drongo kuşu, mirketleri ses taklidi ile aldatıp onların yemeklerini çalmakta. Bir başla kuş türü olan bal kuşu, alacağı bir yiyecek payına karşılık Afrika yerli kabilelerinin bireylerine bal kovanlarının yerini göstermektedir. Bu kuş pay almadığı taktirde sizi bir aslanın tuzağına ya da bir ayının mağarasına da götürebilir. karnınızın doyması ya da ölmeniz bu kuş ile yapacağınız ticaretin dürüstlüğüne bağlıdır.
 
 İnsan ırkının ticari ilişkileri de buna benzer. Karşılıklı büyüme, ya da aldatma yolu ile güvensizliğe dayalı ilişki oluşturma arasında gidip gelmektedir.
 
-Bunun haricinde bu şirketler içerisindeki ilişkiler de önemlidir. Karşılıklı büyümeyi destekleren şirketler olduğu kadar (*ve hatta daha fazla*) sadece şirketin büyümesini düşünüp çalışanlarının menfaatlerini yok sayan işletmeler de bulunmaktadır. 
+Bunun haricinde bu şirketler içerisindeki ilişkiler de önemlidir. Karşılıklı büyümeyi destekleyen şirketler olduğu kadar (*ve hatta daha fazla*) sadece şirketin büyümesini düşünüp çalışanlarının menfaatlerini yok sayan işletmeler de bulunmaktadır. 
 
 Kısa vadede kar elde eden bu şirketler, uzun vadede nitelikli personel sıkıntısı çekip kalifiyesiz eleman çalıştırmanın ve personel eğitim masraflarının yansımasıyla daha çok zarar elde etmektedirler.
 
 İşte ben hep bu tür işletmelerde çalışmış olduğumdan maalesef herhangi bir düzen oturtabilmiş değilim. Bu sebeple doğal seçilim beni elemek için geliyor.
 
 **Doğal seçilim, düzensizleri elemeyi sever.**
-
-Hastalıklar da canlıların hayatlarını düzensizleştiren bir durumdur. Zayıflatıp güçsüzleştiren hastalıklar, canlı bedeninde düzensizliğe yol açar ve doğal seçilim bu düzensizliği yaşamdan eler.
 
 Düzensizlik güçsüzlüktür. Bu sebeple düzene oturtmadığım her bir durum ve aksiyon, benim elimine olma ihtimalimi daha da arttırıyor.
 

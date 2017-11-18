@@ -45,6 +45,18 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
   
 
   
@@ -69,6 +81,7 @@
       "sameAs" : null
     }
   </script>
+
 
 
 
@@ -107,7 +120,7 @@
   </style>
 <![endif]-->
 
-<meta http-equiv="cleartype" content="on">
+
     <!-- start custom head snippets -->
 
 <!-- insert favicons. use http://realfavicongenerator.net/ -->
@@ -118,8 +131,9 @@
   <body class="layout--home">
 
     <!--[if lt IE 9]>
-<div class="notice--danger align-center" style="margin: 0;">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</div>
+<div class="notice--danger align-center" style="margin: 0;">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience.</div>
 <![endif]-->
+
     <div class="masthead">
   <div class="masthead__inner-wrap">
     <div class="masthead__menu">
@@ -134,7 +148,10 @@
             <li class="masthead__menu-item"><a href="http://localhost:4000/hakkinda/">Hakkında</a></li>
           
         </ul>
-        <button><div class="navicon"></div></button>
+        <button type="button">
+          <span class="visually-hidden">Toggle Menu</span>
+          <div class="navicon"></div>
+        </button>
         <ul class="hidden-links hidden"></ul>
       </nav>
     </div>
@@ -155,7 +172,7 @@
   
     <div class="author__avatar">
       
-        <img src="http://localhost:4000/assets/images/bio-photo.jpg" class="author__avatar" alt="Aydın Kabataş" itemprop="image">
+        <img src="http://localhost:4000/assets/images/bio-photo.png" class="author__avatar" alt="Aydın Kabataş" itemprop="image">
       
     </div>
   
@@ -234,6 +251,8 @@
       
 
       
+
+      
         
           <li>
             <a href="https://www.youtube.com/c/aydinkabatas" itemprop="sameAs">
@@ -284,7 +303,7 @@
     
     <h2 class="archive__item-title" itemprop="headline">
       
-        <a href="http://localhost:4000/zor-gunler/" rel="permalink">Zor Gunler
+        <a href="http://localhost:4000/articles/a-different-idea/" rel="permalink">A different idea
 </a>
       
     </h2>
@@ -294,16 +313,10 @@
 
 
 
-  2 dakika tahmini okuma süresi
+  3 dakika tahmini okuma süresi
 </p>
     
-    <p class="archive__item-excerpt" itemprop="description">﻿—
-layout: single
-name: zor-gunler
-title: “Zor Günler”
-category: articles
-time: 2017-09-07
-—
+    <p class="archive__item-excerpt" itemprop="description">İstatistik denilince akla gelecek en son şehir sanırım Konya olur.
 
 </p>
   </article>
@@ -318,7 +331,35 @@ time: 2017-09-07
     
     <h2 class="archive__item-title" itemprop="headline">
       
-        <a href="http://localhost:4000/hello-world/" rel="permalink">Hello World
+        <a href="http://localhost:4000/articles/zor-gunler/" rel="permalink">Zor Günler
+</a>
+      
+    </h2>
+    
+      <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> 
+
+
+
+
+  2 dakika tahmini okuma süresi
+</p>
+    
+    <p class="archive__item-excerpt" itemprop="description">Aslında herşey “Big Bang” adı verilen bir fenomen ile başladı. Maddeler ve anti maddeler savaşından maddeler galip geldi ve atomları oluşturdu.
+
+</p>
+  </article>
+</div>
+
+  
+
+
+
+<div class="list__item">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+    
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/articles/hello-world/" rel="permalink">Hello World!
 </a>
       
     </h2>
@@ -331,13 +372,7 @@ time: 2017-09-07
   1 dakika tahmini okuma süresi
 </p>
     
-    <p class="archive__item-excerpt" itemprop="description">﻿— 
-layout: single 
-name: hello-world 
-title: “Hello World!”
-category: articles
-time: 2017-06-13
-—
+    <p class="archive__item-excerpt" itemprop="description">Çok uzun zaman önce, ilk blog sitemi açtığımda (yaklaşık 6 yıl önce) bir “Hello World” yazısı yazmıştım. O yazı içerisinde hâlâ hatırladığım bir cümle var.
 
 </p>
   </article>
@@ -363,18 +398,24 @@ time: 2017-06-13
     
     
     
-      <li><a href="http://github.com/aydinkabatas"><i class="fa fa-fw fa-github" aria-hidden="true"></i> GitHub</a></li>
+      <li><a href="https://github.com/aydinkabatas"><i class="fa fa-fw fa-github" aria-hidden="true"></i> GitHub</a></li>
+    
     
     
     <li><a href="http://localhost:4000/feed.xml"><i class="fa fa-fw fa-rss-square" aria-hidden="true"></i> RSS</a></li>
   </ul>
 </div>
 
-<div class="page__footer-copyright">&copy; 2017 Aydın Kabataş. Emeği geçenler:  <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
+<div class="page__footer-copyright">&copy; 2017 Aydın Kabataş. Emeği geçenler:  <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
+
       </footer>
     </div>
 
-    <script src="http://localhost:4000/assets/js/main.min.js"></script>
+    
+  <script src="http://localhost:4000/assets/js/main.min.js"></script>
+
+
+
 
 
 

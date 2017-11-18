@@ -1,12 +1,44 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.5.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-09-07T15:13:11+03:00</updated><id>http://localhost:4000/</id><title type="html">Kişisel Bir Blog</title><subtitle>Aydın Kabataş'ın nevi şahsına münhasır blog sitesidir.</subtitle><author><name>Aydın Kabataş</name><email>aydin.kabatas@hotmail.com</email></author><entry><title type="html">Zor Gunler</title><link href="http://localhost:4000/zor-gunler/" rel="alternate" type="text/html" title="Zor Gunler" /><published>2017-09-07T00:00:00+03:00</published><updated>2017-09-07T00:00:00+03:00</updated><id>http://localhost:4000/zor-gunler</id><content type="html" xml:base="http://localhost:4000/zor-gunler/">&lt;p&gt;﻿—
-layout: single
-name: zor-gunler
-title: “Zor Günler”
-category: articles
-time: 2017-09-07
-—&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-11-19T02:53:22+03:00</updated><id>http://localhost:4000/</id><title type="html">Kişisel Bir Blog</title><subtitle>Aydın Kabataş'ın nevi şahsına münhasır blog sitesidir.</subtitle><author><name>Aydın Kabataş</name><email>aydin.kabatas@hotmail.com</email></author><entry><title type="html">A different idea</title><link href="http://localhost:4000/articles/a-different-idea/" rel="alternate" type="text/html" title="A different idea" /><published>2017-11-19T00:00:00+03:00</published><updated>2017-11-19T00:00:00+03:00</updated><id>http://localhost:4000/articles/a-different-idea</id><content type="html" xml:base="http://localhost:4000/articles/a-different-idea/">&lt;p&gt;İstatistik denilince akla gelecek en son şehir sanırım &lt;strong&gt;Konya&lt;/strong&gt; olur.&lt;/p&gt;
 
-&lt;p&gt;Aslında herşey “Big Bang” adı verilen bir fenomen ile başladı. Maddeler ve anti maddeler savaşından maddeler galip geldi ve atomları oluşturdu.&lt;/p&gt;
+&lt;p&gt;Burada eğer hala duruyorsam, &lt;del&gt;&lt;em&gt;sebebi kopartılan çiçekler değil&lt;/em&gt;&lt;/del&gt; şu sürekli elime ayağıma dolaşan yüksek lisans zamazingosundan ötürü. Eğer ki şimdiki aklım iki sene önce başımda olaydı, yüksek lisansa hiç başlamazdım sanırım (çünkü bilim, Kerimcan Durmaz’ın DJ’liği kadar para etmiyor). Şu anda ticaret odasının da desteklediği bir proje üzerinde dışarıdan çalışan &lt;strong&gt;sigortasız ve asgari ücrete tabii bir çalışan&lt;/strong&gt; olarak elime çok sayıda firma bilgisi geçmekte ve bu bilgilerden edindiğim kadarıyla bu firmaların büyük bir çoğunluğu AR-GE’den uzak, kara düzen çalışan, plansız ve programsız şirketler oldukları görülmekte. Zaten son çalıştığım yer de &lt;strong&gt;kurumsal&lt;/strong&gt; olmasına karşın beyaz yakalı personeline asgari ücreti çok gören bir yer olduğundan bu veriler haklılığımı pekiştirici örnekler oldu diyebilirim.&lt;/p&gt;
+
+&lt;p&gt;Peki naaapıcan? &lt;strong&gt;Cevap:&lt;/strong&gt; Hiçbişi..&lt;/p&gt;
+
+&lt;p&gt;Kendi ticari çıkmazlıkları yüzünden kaybetmeye mahkum bir şehir. Çalışana para vermemek için kırk takla atan, daha sonra ürünlerim neden istenilen satış rakamlarında satılmıyor diye ağlananlara sazı soksanız az. Nasıl yani? Şöyle ki..&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;OYUN ZAMANI&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Konya’da bir fabrika sahibisiniz. Şehirdeki herkes fabrikalarda çalışıyor. Hedefiniz aylık 75 adet her ay şehir halkı tarafından tüketilen son tüketici ürününü satmak. Personel alıyorsunuz, 50 kişi aldığınızı varsayalım. 1 ürün 20 lira, kârı da 10 lira olsun, sizin verdiğiniz maaş da 50 lira. Sizin gibi piyasada başkaları da var, onlar da aynı taktikle gidiyorlar, onlar da 50 lira maaşa 50 personelle 75 adet satış rakamına ulaşmak istiyor. 3 tane rakibinizin olduğunu varsayalım. Bunu sizin karşınızda 225 adet satış yapmak isteyen bir firma gibi de düşünebilirsiniz. Koyuna (konu!?) dönelim. Personeliniz 50 kişi, diğer personeller de 150, toplayınca 200 kişi ediyor.
+200 çalışanın ailesinde 2 kişi daha var, yani 600 kişilik bir tüketici grubu olduğunu varsayalım. Ürün 20 lira, maaş 50, ev kirası zart zurt düşsen 20 lira yani maaş da aslında öyle.
+Personelin maaşı 1 ürün kadar ediyor, fakat personel 2 ürün üretiyor.
+Bu arada iş yeri sahibi, ürünlerin satılmamasından ya da yavaş satılmasından şikayetçi. Bu yüzden sahadaki personele daha çok baskı yapıyor. Sahadakilerin yüzü asık, morali bozuk…
+Şimdi patronun elinde hepsini maaşlı çalışanlarına satsa dahi 25 ürün fazlalık kalıyor. Personeller ailedekilere ürün alamayacakları için üzgün.
+Patronun elinde ürün çakıldı.
+Başka rakipleri de olduğundan ötürü bi de o 25 ürünü satamama ihtimali var. Ya da aksine rakibin personellerine satıp hedefi tutturma olasılıkları var.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Peki noolsun?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I. durum, tüm patronlar 5 lira fazla maaş versin. Maaş 55 lira olsun. O zaman;
+50 çalışan için 62 kişiye satış yapar. Patron stok devir hızından kazanır. Patron ürünü yiyemez, ama para çok tatlı yenir.
+Personeller ailelerine de biriktirerek de olsa ürün alabildikleri için mutludur. Satış rakamları da alım gücü arttığı için artmıştır.
+Patronun elinde 13 ürün kalır. Bu ürünleri de şans faktörüne bağlı olarak diğer firmanın çalışanları ya da ailesi alabilir.&lt;/p&gt;
+
+&lt;p&gt;II. durum, tüm patronlar 10 lira yerine 5 lira kar hedeflesin. Ürünün fiyatı 15 lira olur. O zaman;
+50 çalışan için 68 kişiye satış yapar. Patron yine stok devir hızından kazanır. Daha fazla kişiye ürün sattığı için marka bilinilirliği artar, rakip firmaların personelleri de artık ondan alışveriş yapmayı tercih eder. Ama biz aceleci olmayalım, sadece kendi personellerimize ve ailelerine satalım. Yine birikimle ürün alabildikleri için mutlu personeller daha verimli çalışıyor.
+Patronun elinde 7 ürün kalır. Bu ürünleri de &lt;strong&gt;yüksek&lt;/strong&gt; şans faktörüne bağlı olarak diğer firmanın çalışanları ya da ailesi alabilir.&lt;/p&gt;
+
+&lt;p&gt;III. durum, israf yahu üretimi azaltalım! Tüm patronlar 75 ürün değil, 50 ürün üretsin. Böylece zam da olmasın, zarar da!
+50 çalışan 50 kişiye satış yapar. Aileye ürün alınmaz. Personel mutsuzdur. Satış hacmi küçük olduğu için diğer firmalardaki personeller buradan alışveriş yapamaz çünkü risk alınmamış ve yeterli üretim yapılmamıştır. Marka bilinilirliği azalmakta, satışlar düşmektedir. Zar zor da olsa hedef tutturulur.
+Patronun elinde ürün kalmaz. Personel mutsuz, patron zarar yok zannedip şükreder, ekonomi sabit. Olası senaryo, dışarıdan başka bir firma daha ucuz ürün piyasaya sokup bu fabrikalara zor zamanlar yaşatacaktır.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;İşte tüm mesele bu basit dengeyi kurabilmekten ibaret. Rakamlar ve modellemeler farazidir, çok takılmayın. 
+Hikayeden çıkması gereken ana fikir; personele değer veren, doğru planlama yapan hep kazanır. Önce şehirde, sonra ülkede, sonra dünyada, sonra da uzayda (!?)…&lt;/p&gt;
+
+&lt;p&gt;O çok özendiğiniz Avrupa, planlama ve AR-GE’ye önem verdiği için yüksek pazar paylarına sahip canlarım.&lt;/p&gt;
+
+&lt;p&gt;Kendini geliştirmeyen, planlama ve AR-GE’ye önem vermeyen firmalar ölsün. İstatistikten selamlar…&lt;/p&gt;</content><author><name>Aydın Kabataş</name><email>aydin.kabatas@hotmail.com</email></author><category term="articles" /><summary type="html">İstatistik denilince akla gelecek en son şehir sanırım Konya olur.</summary></entry><entry><title type="html">Zor Günler</title><link href="http://localhost:4000/articles/zor-gunler/" rel="alternate" type="text/html" title="Zor Günler" /><published>2017-09-07T00:00:00+03:00</published><updated>2017-09-07T00:00:00+03:00</updated><id>http://localhost:4000/articles/zor-gunler</id><content type="html" xml:base="http://localhost:4000/articles/zor-gunler/">&lt;p&gt;Aslında herşey “Big Bang” adı verilen bir fenomen ile başladı. Maddeler ve anti maddeler savaşından maddeler galip geldi ve atomları oluşturdu.&lt;/p&gt;
 
 &lt;p&gt;Sonrasında moleküller, DNA’lar, hücreler, dokular, uzun bir evrim süreci, en sonunda insanlar…&lt;/p&gt;
 
@@ -25,11 +57,11 @@ Aslında doğada bu durumun benzerlerini sürekli görmekteyiz. Güçlü olanın
 
 &lt;p&gt;Güçlünün güçsüzü ezmesi, canlı doğasında bulunan bir gerçektir. Güçsüzler için iki durum söz konusudur. Ya güçlüleri aldatıp kendisi de güçlenecek, ya da iş birliği yapmak durumunda kalacaktır. Aksi durum, ezilmeye devam etmesi demektir.&lt;/p&gt;
 
-&lt;p&gt;Afrika taklitçi kuşu, mirketleri ses taklidi ile aldatıp onların yemeklerini çalmakta. Bir başla kuş türü olan pusula kuşu, sizden alacağı bir yiyecek payına karşılık Afrika yerli kabilelerinin bireylerine bal kovanlarının yerini göstermektedir. Bu kuş pay almadığı taktirde sizi bir aslanın tuzağına ya da bir ayının mağarasına da götürebilir. karnınızın doyması ya da ölmeniz bu kuş ile yapacağınız ticaretin dürüstlüğüne bağlıdır.&lt;/p&gt;
+&lt;p&gt;Drongo kuşu, mirketleri ses taklidi ile aldatıp onların yemeklerini çalmakta. Bir başla kuş türü olan bal kuşu, alacağı bir yiyecek payına karşılık Afrika yerli kabilelerinin bireylerine bal kovanlarının yerini göstermektedir. Bu kuş pay almadığı taktirde sizi bir aslanın tuzağına ya da bir ayının mağarasına da götürebilir. karnınızın doyması ya da ölmeniz bu kuş ile yapacağınız ticaretin dürüstlüğüne bağlıdır.&lt;/p&gt;
 
 &lt;p&gt;İnsan ırkının ticari ilişkileri de buna benzer. Karşılıklı büyüme, ya da aldatma yolu ile güvensizliğe dayalı ilişki oluşturma arasında gidip gelmektedir.&lt;/p&gt;
 
-&lt;p&gt;Bunun haricinde bu şirketler içerisindeki ilişkiler de önemlidir. Karşılıklı büyümeyi destekleren şirketler olduğu kadar (&lt;em&gt;ve hatta daha fazla&lt;/em&gt;) sadece şirketin büyümesini düşünüp çalışanlarının menfaatlerini yok sayan işletmeler de bulunmaktadır.&lt;/p&gt;
+&lt;p&gt;Bunun haricinde bu şirketler içerisindeki ilişkiler de önemlidir. Karşılıklı büyümeyi destekleyen şirketler olduğu kadar (&lt;em&gt;ve hatta daha fazla&lt;/em&gt;) sadece şirketin büyümesini düşünüp çalışanlarının menfaatlerini yok sayan işletmeler de bulunmaktadır.&lt;/p&gt;
 
 &lt;p&gt;Kısa vadede kar elde eden bu şirketler, uzun vadede nitelikli personel sıkıntısı çekip kalifiyesiz eleman çalıştırmanın ve personel eğitim masraflarının yansımasıyla daha çok zarar elde etmektedirler.&lt;/p&gt;
 
@@ -37,19 +69,9 @@ Aslında doğada bu durumun benzerlerini sürekli görmekteyiz. Güçlü olanın
 
 &lt;p&gt;&lt;strong&gt;Doğal seçilim, düzensizleri elemeyi sever.&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;Hastalıklar da canlıların hayatlarını düzensizleştiren bir durumdur. Zayıflatıp güçsüzleştiren hastalıklar, canlı bedeninde düzensizliğe yol açar ve doğal seçilim bu düzensizliği yaşamdan eler.&lt;/p&gt;
-
 &lt;p&gt;Düzensizlik güçsüzlüktür. Bu sebeple düzene oturtmadığım her bir durum ve aksiyon, benim elimine olma ihtimalimi daha da arttırıyor.&lt;/p&gt;
 
-&lt;p&gt;Bu günlerin de geçeceğini umut edip bu anlamsız yazıyı burada sonlandıralım…&lt;/p&gt;</content><author><name>Aydın Kabataş</name><email>aydin.kabatas@hotmail.com</email></author><summary type="html">﻿— layout: single name: zor-gunler title: “Zor Günler” category: articles time: 2017-09-07 —</summary></entry><entry><title type="html">Hello World</title><link href="http://localhost:4000/hello-world/" rel="alternate" type="text/html" title="Hello World" /><published>2017-06-13T00:00:00+03:00</published><updated>2017-06-13T00:00:00+03:00</updated><id>http://localhost:4000/hello-world</id><content type="html" xml:base="http://localhost:4000/hello-world/">&lt;p&gt;﻿— 
-layout: single 
-name: hello-world 
-title: “Hello World!”
-category: articles
-time: 2017-06-13
-—&lt;/p&gt;
-
-&lt;p&gt;Çok uzun zaman önce, ilk blog sitemi açtığımda (yaklaşık 6 yıl önce) bir “Hello World” yazısı yazmıştım. O yazı içerisinde hâlâ hatırladığım bir cümle var.&lt;/p&gt;
+&lt;p&gt;Bu günlerin de geçeceğini umut edip bu anlamsız yazıyı burada sonlandıralım…&lt;/p&gt;</content><author><name>Aydın Kabataş</name><email>aydin.kabatas@hotmail.com</email></author><category term="articles" /><summary type="html">Aslında herşey “Big Bang” adı verilen bir fenomen ile başladı. Maddeler ve anti maddeler savaşından maddeler galip geldi ve atomları oluşturdu.</summary></entry><entry><title type="html">Hello World!</title><link href="http://localhost:4000/articles/hello-world/" rel="alternate" type="text/html" title="Hello World!" /><published>2017-06-13T00:00:00+03:00</published><updated>2017-06-13T00:00:00+03:00</updated><id>http://localhost:4000/articles/hello-world</id><content type="html" xml:base="http://localhost:4000/articles/hello-world/">&lt;p&gt;Çok uzun zaman önce, ilk blog sitemi açtığımda (yaklaşık 6 yıl önce) bir “Hello World” yazısı yazmıştım. O yazı içerisinde hâlâ hatırladığım bir cümle var.&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;blockquote&gt;
@@ -61,10 +83,10 @@ time: 2017-06-13
 
 &lt;p&gt;Buna rağmen pes etmeyi ve “&lt;em&gt;ben yapamıyorum&lt;/em&gt;” deyip işin kolayına kaçmayı da hiç yakıştıramıyorum kendime. Gerçi bir ara iyi yakışmıştı, ama artık silkelenmenin vaktinin geldiğini düşünüyorum.&lt;/p&gt;
 
-&lt;p&gt;Dile kolay, 5 yıldır programlama ile uğraşmıyorum. Bu süre zarfında tabi ki başka meşgalelerim oldu. Örneğin okuduğum bölüm olan istatistik anabilim dalı üzerine çalışmalarımı yoğunlaştırdım ve SPSS - NebimV3 - QlikView programları üzerinde ciddi ilerlemeler katettim. Fakat şu bir gerçek ki, &lt;strong&gt;algoritma üretemedikçe beynim ölüyor!&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Dile kolay, 5 yıldır programlama ile uğraşmıyorum. Bu süre zarfında tabi ki başka uğraşılarım oldu. Örneğin okuduğum bölüm olan istatistik anabilim dalı üzerine çalışmalarımı yoğunlaştırdım ve SPSS - NebimV3 - QlikView programları üzerinde ciddi ilerlemeler katettim. Fakat şu bir gerçek ki, &lt;strong&gt;algoritma üretemedikçe beynim ölüyor!&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;Tabi ki bu mecazi bir kavram. Fakat 5 yıl önceki herşeyi başarabileceğini düşünen ve kavrama kabiliyeti yüksek olan ben ile şu anki ben arasında gözle görülür, hisle hissedilir bir fark var. Peki 5 yıl önce ne yapıyordum?&lt;/p&gt;
+&lt;p&gt;Tabi ki bu mecazi bir kavram. Fakat 5 yıl önceki herşeyi başarabileceğini düşünen ve kavrama kabiliyeti yüksek olan ben ile şu anki ben arasında gözle görülür, hisle hissedilir bir fark var.&lt;/p&gt;
 
-&lt;p&gt;Cevap: &lt;strong&gt;kodlama&lt;/strong&gt;. Sürekli bilgisayar kodları yazıp, kod üretip zihnimi tazeliyordum. Ben de 5 yıl geçmiş olsa bile hatanın neresinden dönülse kârdır deyip geçenlerde yeniden blog yazmaya karar verdim. Tabi bunun önceki &lt;a href=&quot;http://www.aydinkabatas.tumblr.com&quot;&gt;Tumblr&lt;/a&gt; blogumdan farklı olmasını ve &lt;em&gt;elimi koda bulayıp&lt;/em&gt; kendi blogumu kodlamayı seçtim. Daha sonra &lt;a href=&quot;http://www.github.io&quot;&gt;Github&lt;/a&gt; üzerinden kodlamaları incelerken &lt;a href=&quot;http://www.jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt; ile tanışınca “neden github üzerinde jekyll ile blog açmak varken sıfırdan yazayım ki” diye düşündüm. Tabi beni asıl cezbeden, bu blog sayfasının bir &lt;strong&gt;veritabanına&lt;/strong&gt; ihtiyaç duymamasıydı. Ben de hem deneme hem de yeniden sahalara dönme açısından bu blogu açmış bulundum.&lt;/p&gt;
+&lt;p&gt;5 yıl geçmiş olsa bile hatanın neresinden dönülse kârdır deyip geçenlerde yeniden blog yazmaya karar verdim. Tabi bunun önceki &lt;a href=&quot;http://www.aydinkabatas.tumblr.com&quot;&gt;Tumblr&lt;/a&gt; blogumdan farklı olmasını ve &lt;em&gt;elimi koda bulayıp&lt;/em&gt; kendi blogumu kodlamayı seçtim. Daha sonra &lt;a href=&quot;http://www.github.io&quot;&gt;Github&lt;/a&gt; üzerinden kodlamaları incelerken &lt;a href=&quot;http://www.jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt; ile tanışınca “neymiş bu ya, bir bakalım bakalım” diyerek &lt;a href=&quot;https://www.ruby-lang.org/tr/&quot;&gt;Ruby&lt;/a&gt; dilinin de gücüyle bu dünyaya bir adım atayım dedim. Tabi beni asıl cezbeden, bu blog sayfasının bir &lt;strong&gt;veritabanına&lt;/strong&gt; ihtiyaç duymamasıydı. Ben de hem deneme hem de yeniden sahalara dönme açısından bu blogu açmış bulundum.&lt;/p&gt;
 
-&lt;p&gt;Tüm bu siteye ait kodlamaları benim &lt;a href=&quot;https://github.com/aydinkabatas/aydinkabatas.github.com&quot;&gt;Github&lt;/a&gt; adresimden inceleyebilir, &lt;a href=&quot;https://www.creativecommons.org&quot;&gt;ticari amaçlı olmadığı&lt;/a&gt; müddetçe kullanabilirsiniz.&lt;/p&gt;</content><author><name>Aydın Kabataş</name><email>aydin.kabatas@hotmail.com</email></author><summary type="html">﻿— layout: single name: hello-world title: “Hello World!” category: articles time: 2017-06-13 —</summary></entry></feed>
+&lt;p&gt;Tüm bu siteye ait kodlamaları benim &lt;a href=&quot;https://github.com/aydinkabatas/aydinkabatas.github.com&quot;&gt;Github&lt;/a&gt; adresimden inceleyebilir, &lt;a href=&quot;https://www.creativecommons.org&quot;&gt;ticari amaçlı olmadığı&lt;/a&gt; müddetçe kullanabilirsiniz.&lt;/p&gt;</content><author><name>Aydın Kabataş</name><email>aydin.kabatas@hotmail.com</email></author><category term="articles" /><summary type="html">Çok uzun zaman önce, ilk blog sitemi açtığımda (yaklaşık 6 yıl önce) bir “Hello World” yazısı yazmıştım. O yazı içerisinde hâlâ hatırladığım bir cümle var.</summary></entry></feed>
