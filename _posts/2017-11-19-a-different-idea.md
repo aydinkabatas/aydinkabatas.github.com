@@ -1,7 +1,7 @@
 ﻿---
 layout: single
 name: a-different-idea
-title: "A different idea"
+title: "A Different Idea"
 category: articles
 ---
 
