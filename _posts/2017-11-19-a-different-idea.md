@@ -9,9 +9,9 @@ category: articles
 
 Burada eğer hala duruyorsam, ~~_sebebi kopartılan çiçekler değil_~~ şu sürekli elime ayağıma dolaşan yüksek lisans zamazingosundan ötürü. Eğer ki şimdiki aklım iki sene önce başımda olaydı, yüksek lisansa hiç başlamazdım sanırım (çünkü bilim, Kerimcan Durmaz'ın DJ'liği kadar para etmiyor). Şu anda ticaret odasının da desteklediği bir proje üzerinde dışarıdan çalışan **sigortasız ve asgari ücrete tabii bir çalışan** olarak elime çok sayıda firma bilgisi geçmekte ve bu bilgilerden edindiğim kadarıyla bu firmaların büyük bir çoğunluğu AR-GE'den uzak, kara düzen çalışan, plansız ve programsız şirketler oldukları görülmekte. Zaten son çalıştığım yer de **kurumsal** olmasına karşın beyaz yakalı personeline asgari ücreti çok gören bir yer olduğundan bu veriler haklılığımı pekiştirici örnekler oldu diyebilirim.
 
-Peki naaapıcan? **Cevap:** Hiçbişi..
+Peki naaapıcan? **Cevap:** Hiçbişi...
 
-Kendi ticari çıkmazlıkları yüzünden kaybetmeye mahkum bir şehir. Çalışana para vermemek için kırk takla atan, daha sonra ürünlerim neden istenilen satış rakamlarında satılmıyor diye ağlananlara sazı soksanız az. Nasıl yani? Şöyle ki..
+Kendi ticari çıkmazlıkları yüzünden kaybetmeye mahkum bir şehir. Çalışana para vermemek için kırk takla atan, daha sonra ürünlerim neden istenilen satış rakamlarında satılmıyor diye ağlananlara sazı soksanız az. Nasıl yani? Şöyle ki;
 
 **OYUN ZAMANI**
 

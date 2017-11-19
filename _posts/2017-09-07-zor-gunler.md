@@ -24,13 +24,13 @@ Son zamanlarda güzel günler yaşamadığım aşikar. Mantıksal açıdan bakı
 
 Güçlünün güçsüzü ezmesi, canlı doğasında bulunan bir gerçektir. Güçsüzler için iki durum söz konusudur. Ya güçlüleri aldatıp kendisi de güçlenecek, ya da iş birliği yapmak durumunda kalacaktır. Aksi durum, ezilmeye devam etmesi demektir.
 
-Drongo kuşu, mirketleri ses taklidi ile aldatıp onların yemeklerini çalmakta. Bir başla kuş türü olan bal kuşu, alacağı bir yiyecek payına karşılık Afrika yerli kabilelerinin bireylerine bal kovanlarının yerini göstermektedir. Bu kuş pay almadığı taktirde sizi bir aslanın tuzağına ya da bir ayının mağarasına da götürebilir. karnınızın doyması ya da ölmeniz bu kuş ile yapacağınız ticaretin dürüstlüğüne bağlıdır.
+Drongo kuşu, mirketleri ses taklidi ile aldatıp onların yemeklerini çalmakta. Bir başka kuş türü olan bal kuşu, alacağı bir yiyecek payına karşılık Afrika yerli kabilelerinin bireylerine bal kovanlarının yerini göstermektedir. Bu kuş pay almadığı taktirde sizi bir aslanın tuzağına ya da bir ayının mağarasına da götürebilir. karnınızın doyması ya da ölmeniz bu kuş ile yapacağınız ticaretin dürüstlüğüne bağlıdır.
 
 İnsan ırkının ticari ilişkileri de buna benzer. Karşılıklı büyüme, ya da aldatma yolu ile güvensizliğe dayalı ilişki oluşturma arasında gidip gelmektedir.
 
 Bunun haricinde bu şirketler içerisindeki ilişkiler de önemlidir. Karşılıklı büyümeyi destekleyen şirketler olduğu kadar (*ve hatta daha fazla*) sadece şirketin büyümesini düşünüp çalışanlarının menfaatlerini yok sayan işletmeler de bulunmaktadır. 
 
-Kısa vadede kar elde eden bu şirketler, uzun vadede nitelikli personel sıkıntısı çekip kalifiyesiz eleman çalıştırmanın ve personel eğitim masraflarının yansımasıyla daha çok zarar elde etmektedirler.
+Kısa vadede kâr elde eden bu şirketler, uzun vadede nitelikli personel sıkıntısı çekip kalifiyesiz eleman çalıştırmanın ve personel eğitim masraflarının yansımasıyla daha çok zarar elde etmektedirler.
 
 İşte ben hep bu tür işletmelerde çalışmış olduğumdan maalesef herhangi bir düzen oturtabilmiş değilim. Bu sebeple doğal seçilim beni elemek için geliyor.
 
