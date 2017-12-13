@@ -17,7 +17,7 @@ Uzun zamandır böyle bir rehber yapmayı düşünüyordum. Aslında nereden ba�
 
 Oyuna ilk başladığınızda 4 çeşit kart tipi görüyorsunuz. Bunlar; **Minion (Yaratık)**, **Spell (Büyü)**, **Weapon (Silah)** ve **Hero (Kahraman)** kartları. Sonuncusu olan Hero kartları [Knights of the Frozen Throne](https://us.battle.net/hearthstone/en/expansions-adventures/knights-of-the-frozen-throne/) eklentisi ile geldi. Oyunun Tutorial (eğitim) kısmında bu kartı görememeniz bu sebeple doğal. Her oyuncu kendisine bir kahraman seçip 30 Health (sağlık) ile oyuna başlar (özel bir durum olmaksızın maksimum sağlık kapasitesi 30'dur). İki taraftan ilk kim karşısındaki kahramanın sağlık puanını sıfıra düşürürse o taraf kazanır.
 
-![HS-Board](../../assets/images/hearthstone-board2.png "Oyun Sahası"){:style="width:100%"}
+![HS-Board](../../assets/images/hs-board.png "Hearthstone Oyun Mantığı"){:style="width:100%"}
 
 Ayrıca oyunda her biri farklı özelliklere sahip 9 adet **Hero Class (Kahraman Sınıfı)** bulunuyor. Bunlar; **Warrior (Savaşçı)**, **Hunter (Avcı)**, **Rogue (Düzenbaz)**, **Mage (Büyücü)**, **Shaman (Şaman)**, **Warlock (Kara Büyücü)**, **Druid (Rahip)**, **Priest (Şifacı)** ve **Paladin (Şövalye)** sınıflarıdır.
 
