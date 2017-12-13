@@ -1,10 +1,214 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-11-19T03:27:29+03:00</updated><id>http://localhost:4000/</id><title type="html">Kişisel Bir Blog</title><subtitle>Aydın Kabataş'ın nevi şahsına münhasır blog sitesidir.</subtitle><author><name>Aydın Kabataş</name><email>aydin.kabatas@hotmail.com</email></author><entry><title type="html">A Different Idea</title><link href="http://localhost:4000/articles/a-different-idea/" rel="alternate" type="text/html" title="A Different Idea" /><published>2017-11-19T00:00:00+03:00</published><updated>2017-11-19T00:00:00+03:00</updated><id>http://localhost:4000/articles/a-different-idea</id><content type="html" xml:base="http://localhost:4000/articles/a-different-idea/">&lt;p&gt;İstatistik denilince akla gelecek en son şehir sanırım &lt;strong&gt;Konya&lt;/strong&gt; olur.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-12-13T03:18:49+03:00</updated><id>http://localhost:4000/</id><title type="html">Kişisel Bir Blog</title><subtitle>Aydın Kabataş'ın nevi şahsına münhasır blog sitesidir.</subtitle><author><name>Aydın Kabataş</name><email>aydin.kabatas@hotmail.com</email></author><entry><title type="html">Hearthstone Rehberi - Bölüm 01 - İlk Bakış</title><link href="http://localhost:4000/hearthstone/hearthstone-rehberi/" rel="alternate" type="text/html" title="Hearthstone Rehberi - Bölüm 01 - İlk Bakış" /><published>2017-12-12T00:00:00+03:00</published><updated>2017-12-12T00:00:00+03:00</updated><id>http://localhost:4000/hearthstone/hearthstone-rehberi</id><content type="html" xml:base="http://localhost:4000/hearthstone/hearthstone-rehberi/">&lt;p&gt;Uzun zamandır böyle bir rehber yapmayı düşünüyordum. Aslında nereden başlayacağımı bilmiyorum, eğer lönk diye konuya atılırsam kusura bakmayın. Bu rehberi yapmamın sebebi tamamiyle bu oyunu gerçekten çok sevmemden ve Türkiye’den daha fazla oynayan kişi görme isteğimden kaynaklanıyor.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../../assets/images/hearthstone-logo.png&quot; alt=&quot;HS-Logo&quot; title=&quot;Hearthstone&quot; style=&quot;padding-left:20%;width:80%&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://playhearthstone.com&quot;&gt;Hearthstone&lt;/a&gt; &lt;a href=&quot;https://www.blizzard.com&quot;&gt;Blizzard&lt;/a&gt; tarafından çıkarılmış bir tür dijital kart oyunu. Her bir karakter &lt;a href=&quot;https://worldofwarcraft.com&quot;&gt;World of Warcraft&lt;/a&gt; evreninde yer alır, genellikle kendine has özellikleri ve gücü vardır. Blizzard da bunu görmüş ve demiş ki “yahu ben bir kart oyunu yapayım, dünyaya babamın hayrına dağıtayım” demiş (&lt;em&gt;mi acaba?&lt;/em&gt;). Aslında öyle dememiş. İlk olarak bir grup Blizzard’daki programcının hobi amacı ile başlamış, sonrasında çok güzel bir fikir olduğu kanaatine varılınca oyunu piyasaya sürme kararı verilmiş. Şu an oyun içi satın alma cirolarına bakarak bile verdikleri en doğru karar olduğu görülmekte. Her neyse…&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;01-basit-düzeyde-oyun-mantığı&quot;&gt;01. Basit Düzeyde Oyun Mantığı&lt;/h3&gt;
+
+&lt;p&gt;Oyuna ilk başladığınızda 4 çeşit kart tipi görüyorsunuz. Bunlar; &lt;strong&gt;Minion (Yaratık)&lt;/strong&gt;, &lt;strong&gt;Spell (Büyü)&lt;/strong&gt;, &lt;strong&gt;Weapon (Silah)&lt;/strong&gt; ve &lt;strong&gt;Hero (Kahraman)&lt;/strong&gt; kartları. Sonuncusu olan Hero kartları &lt;a href=&quot;https://us.battle.net/hearthstone/en/expansions-adventures/knights-of-the-frozen-throne/&quot;&gt;Knights of the Frozen Throne&lt;/a&gt; eklentisi ile geldi. Oyunun Tutorial (eğitim) kısmında bu kartı görememeniz bu sebeple doğal. Her oyuncu kendisine bir kahraman seçip 30 Health (sağlık) ile oyuna başlar (özel bir durum olmaksızın maksimum sağlık kapasitesi 30’dur). İki taraftan ilk kim karşısındaki kahramanın sağlık puanını sıfıra düşürürse o taraf kazanır.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../../assets/images/hearthstone-board.png&quot; alt=&quot;HS-Board&quot; title=&quot;Oyun Sahası&quot; style=&quot;width:100%&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Ayrıca oyunda her biri farklı özelliklere sahip 9 adet &lt;strong&gt;Hero Class (Kahraman Sınıfı)&lt;/strong&gt; bulunuyor. Bunlar; &lt;strong&gt;Warrior (Savaşçı)&lt;/strong&gt;, &lt;strong&gt;Hunter (Avcı)&lt;/strong&gt;, &lt;strong&gt;Rogue (Düzenbaz)&lt;/strong&gt;, &lt;strong&gt;Mage (Büyücü)&lt;/strong&gt;, &lt;strong&gt;Shaman (Şaman)&lt;/strong&gt;, &lt;strong&gt;Warlock (Kara Büyücü)&lt;/strong&gt;, &lt;strong&gt;Druid (Rahip)&lt;/strong&gt;, &lt;strong&gt;Priest (Şifacı)&lt;/strong&gt; ve &lt;strong&gt;Paladin (Şövalye)&lt;/strong&gt; sınıflarıdır.&lt;/p&gt;
+
+&lt;h3 id=&quot;02-hero-power-mekaniği&quot;&gt;02. Hero Power Mekaniği&lt;/h3&gt;
+
+&lt;p&gt;Her bir kahraman sınıfının (özel bir durum olmadığı müddetçe) tur başına bir defa kullanabildiği bir &lt;strong&gt;Hero Power (Kahraman Gücü)&lt;/strong&gt; vardır. Bu kahraman gücünün bedeli tur içerisinde (özel bir durum olmadığı müddetçe) 2 Mana’dır. Sırasıyla;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../../assets/images/hero-power.png&quot; alt=&quot;Hero-Power&quot; title=&quot;Kahraman Özelliği&quot; style=&quot;padding-left:30%;width:70%&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Warrior - Armor Up!:&lt;/strong&gt; Kendisine 2 zırh verir. Zırh, kahramanda Health (can) ile aynı mantıkta işleyen fakat maksimum can kapasitesi gözetmeyen bir özelliktir. Özel durumlarda zırhlar özel kartlarla kombinasyon halinde kullanılabilir.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Hunter - Steady Shot:&lt;/strong&gt; Rakip kahramana 2 hasar verir. Diğer karakterlere hasar veremez.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Rogue - Dagger Mastery:&lt;/strong&gt; Kahraman 1 hasar ve 2 dayanıklılığa sahip bir silah kuşanır. Elde başka bir silah varsa onun yerine geçer. Silah güçlendirme kartları ile güçlendirilebilir.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Mage - Fireblast:&lt;/strong&gt; İstenilen bir karaktere 1 hasar verir. Dost veya düşman birime kullanılabilir.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Shaman - Totemic Call:&lt;/strong&gt; 4 çeşit totemden rastgele birini istif olmayacak şekilde çağırır. Bu totemler; &lt;strong&gt;Healing Totem&lt;/strong&gt; (&lt;em&gt;tur sonunda tüm dost yaratıklarına 1 can verir, 0 hasar ile 2 cana sahiptir&lt;/em&gt;), &lt;strong&gt;Seaing Totem&lt;/strong&gt; (&lt;em&gt;1 hasara ve 1 cana sahiptir&lt;/em&gt;), &lt;strong&gt;Stoneclaw Totem&lt;/strong&gt; (&lt;em&gt;Taunt -üzerine çekme- özelliğine ve 0 hasar ve 2 cana sahiptir&lt;/em&gt;) ve &lt;strong&gt;Wrath of Air Totem&lt;/strong&gt; (&lt;em&gt;+1 büyü hasarlarını arttırır, 0 hasar ve 2 cana sahiptir&lt;/em&gt;) totemleridir. Çağırılan totemler “&lt;strong&gt;Totem&lt;/strong&gt;” yaratık sınıfına üyedirler ve bu sınıfa özel bütün güçlendirmeleri ve desteklemeleri alabilirler. 4 totemin hepsi çağrılmışsa beşinci totem çağrılamaz.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Warlock - Life Tap:&lt;/strong&gt; Desteden bir kart çeker ve kendisine 2 hasar verir. Oyunda kart çekme mekaniği çok önemli ve güçlü olduğundan dengelemek açısından kullanan kahramanın 2 hasar görmesi durumu oyunun beta programından sonra eklenmiştir.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Druid - Shapeshift:&lt;/strong&gt; 1 zırh ve içinde bulunduğu turda kullanılması için 1 hasar gücü verir. Kazanılan zırh bir sonraki turlara devreder fakat hasar devretmez.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Priest - Lesser Heal:&lt;/strong&gt; Bir karaktere 2 heal (sağlık puanı) verir. Bu sağlık puanı karakterin maksimum sağlık puanı üzerinde bir etki etmez. Genellikle yaralı dost birimleri üzerinde kullanılır. Dost veya düşman birime kullanılabilir.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Paladin - Reinforce:&lt;/strong&gt; Sahaya 1 hasar ve 1 cana sahip &lt;strong&gt;Silver Hand Recruit&lt;/strong&gt; çağırır.&lt;/p&gt;
+
+&lt;h3 id=&quot;03-kartlar-hakkında&quot;&gt;03. Kartlar Hakkında&lt;/h3&gt;
+
+&lt;p&gt;Oyunda silah ve yaratık kartlarını tanımlamak için “&lt;strong&gt;saldırı gücü/sağlık puanı&lt;/strong&gt;” şeklinde kısaltma bir yazım vardır. Örneğin; &lt;em&gt;“Equip a 5/2 weapon”&lt;/em&gt; yazısı, kahramanın 5 saldırı gücünde, 2 dayanıklılığa sahip bir silah alacağını gösterir. Ya da &lt;em&gt;“Summon 1/1 Boar”&lt;/em&gt; yazısı ilgili kartın 1 saldırı gücü ve 1 sağlık puanına sahip bir yaratık yaratacağını göstermektedir.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../../assets/images/razorfen-hunter.png&quot; alt=&quot;Razorfen-Hunter&quot; title=&quot;Razorfen Hunter Kartı&quot; style=&quot;padding-left:35%;width:65%&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Oyun içerisinde oyuna hiçbir etki etmemesine karşın 2 tip kart vardır. Bunlar; sıradan ve &lt;strong&gt;Golden (altın)&lt;/strong&gt; kartlardır. Golden kartlar animasyonlu, sıradan kartlar animasyonsuzdur. Kartın altın veya sıradan olması oyuna etki etmemektedir. Oyun içerisinde kartlara 2 şekilde sahip olunabilir. Bunlardan ilki, oyun içerisinde oyun parası ya da gerçek para ile alınabilen &lt;strong&gt;Pack (paket)&lt;/strong&gt; alımıdır. Her paketten 5 adet kart çıkar. Her bir paketteki 5 karttan en az biri Rare ya da daha üst kalitede olmak zorundadır. Ayrıca oyunda ilgili Expansion’a ait ilk 10 paketten birinde Legendary kalitesinde kart çıkma zorunluluğu vardır. Ve ayrıca (ilk 10 paket haricinde) her 10 pakette 1 adet Epic, her 40 pakette 1 adet Legenday çıkma zorunluluğu vardır. Bu durum &lt;a href=&quot;https://playhearthstone.com/en-us/expansions-adventures/journey-to-ungoro/&quot;&gt;Journey to Un’goro&lt;/a&gt; genişleme paketi ile birlikte &lt;em&gt;“Pitty Timer”&lt;/em&gt; isimli küçük bir düzenleme ile oyuna gelmiştir. Bu sayede benim gibi şansız oyuncuların bile Legendary çıkarmama durumu ortadan kalkmış, oyuna daha da bir eşitlilik gelmiştir. Her pakette çıkan bir Legendary kartı elinizde bulunuyorsa aynısı çıkmaz. Bu da Pitty Timer ile birlikte gelen güzel bir özellik. Çünkü aynı Legendary karttan 3 tane koleksiyonda olup da diğer Legendary kartlardan eksiklerin olması kadar can sıkıcı bir durum daha yok zannımca.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../../assets/images/pack-opened.png&quot; alt=&quot;Pack-Opened&quot; title=&quot;Paket Açılışı&quot; style=&quot;width:100%&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Diğer durum ise &lt;strong&gt;Dust (kum)&lt;/strong&gt; ile kart yaratma durumudur. Kartlar değerlerine göre Dust’a dönüştürülüp yaratılabilir. Kart yaratma, kartı Dust’a dönüştürme işleminden daha maliyetlidir. Kartların orta kısmında değerlerine göre enderlik durumlarının bulunduğu bir taş bulunur. Bunlar;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../../assets/images/card-dust.png&quot; alt=&quot;Card-Dust&quot; title=&quot;Kart Yaratma&quot; style=&quot;padding-left:10%;width:90%&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Basic - Temel&lt;/strong&gt;: Ortasında taş bulundurmayan, oyunun sizin koleksiyonunuza ilk olarak verdiği temel kartlardır. Her kahraman için seviye 10’da bütün temel kartlar açılır. Bu kartlar Dust’a dönüştürülemez.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Common - Yaygın&lt;/strong&gt;: Ortasında beyaz taş bulunduran, çıkma ihtimali %71.5 olan kartlardır. Yaratma maliyeti: 40(sıradan), 400(golden) dust. Dönüştürme kazancı: 5(sıradan), 50(golden) dust.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Rare - Nadir&lt;/strong&gt;: Ortasında mavi taş bulunduran, çıkma ihtimali %23 olan kartlardır. Yaratma maliyeti: 100(sıradan), 800(golden) dust. Dönüştürme kazancı: 20(sıradan), 100(golden) dust.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Epic - Destansı&lt;/strong&gt;: Ortasında mor taş bulunduran, çıkma ihtimali %4.5 olan kartlardır. Yaratma maliyeti: 400(sıradan), 1600(golden) dust. Dönüştürme kazancı: 100(sıradan), 400(golden) dust.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Legendary - Efsanevi&lt;/strong&gt;: Ortasında turuncu taş bulunduran, insanların paketten çıkınca çığlık attığı, bazı oyunlarda dengeleri ciddi manada değiştiren, çıkma ihtimali %1 olan kartlardır. Yaratma maliyeti: 1600(sıradan), 3200(golden) dust. Dönüştürme kazancı: 400(sıradan), 1600(golden) dust.&lt;/p&gt;
+
+&lt;p&gt;Kartların enderlik durumları reelde oyunlara aşırı bir etki etmemektedir. Örneğin; &lt;em&gt;Bonemare&lt;/em&gt; kartı Common değerinde olmasına karşın Epic kartlardan daha çok tercih edilip çoğu meta destesinde bulunmaktadır (meta olayına ileride değineceğiz). Bir destede 30 kart bulunmak zorundadır. Bu 30 kart içerisinde Legendary kartları hariç her karttan ikişer adet bulunabilir. Sadece Legendary kartları destede bir adet bulunabilir, daha fazla bulunamaz.&lt;/p&gt;
+
+&lt;h3 id=&quot;04-mana-crystal-mekaniği&quot;&gt;04. Mana Crystal Mekaniği&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;../../assets/images/mana-crystal.png&quot; alt=&quot;Mana-Crystal&quot; title=&quot;Mana Crystal Mekaniği&quot; style=&quot;width:75%&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Oyun birinci tur için bir mana olmak üzere size her tur için birer tane &lt;strong&gt;Mana Crystal&lt;/strong&gt; verir. Oyun içerisinde Mana Crystal üst sınırı 10 Mana Crystal ile sınırlıdır. Her kart oynamanız gerektiğinde bulunduğunuz turdaki Mana miktarınız boyutundaki kartı sahaya sürebilirsiniz. Bu mekanik, oyunda büyük kartlar kadar küçük kartların da oynanması ve oyun içerisinde ilk başlayan - ikinci başlayan dengesi için düşünülmüş bir mekaniktir. Sürekli büyük ve güçlü kartları destenize koyarsanız, oyun başı ortaya kart süremediğiniz için rakibiniz sizi ihtiyacınız olan mana miktarına ulaşamadan küçük kombinasyon kartları ile oyunu bitirmesi kaçınılmaz. Oyun başlangıcında eğer elinizde o turda oynayabileceğiniz miktardan büyük kartlar varsa kart oynamadan “End Turn” (turu bitir) butonuna basarak sonraki tura geçebilirisiniz. Eğer oyuna ikinci olarak başlıyorsanız, rakibinizin avantajını dengelemek amacıyla oyun size bir “&lt;strong&gt;The Coin&lt;/strong&gt;” adında kart ve bir de destenizden ekstra kart verir. The Coin, size bir turluğuna bulunduğunuz mana kapasitesinden 1 mana daha fazla olan kapasitede oyun oynama hakkı sunar. Bazı oyunlarda (&lt;em&gt;özellikle Rogue oyunlarında&lt;/em&gt;) önemli bir karttır. (&lt;em&gt;Tavsiye: “Use wisely”&lt;/em&gt;)&lt;/p&gt;
+
+&lt;h3 id=&quot;05-oyun-kuralları-ve-oyun-sahası-board-hakkında&quot;&gt;05. Oyun Kuralları ve Oyun Sahası (Board) Hakkında&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;../../assets/images/board-detailed.png&quot; alt=&quot;Board-Detailed&quot; title=&quot;Oyun Sahası&quot; style=&quot;width:100%&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Oyunda her tur maksimum 75 saniye sürmektedir. 75 saniyenin son 20 saniyesinde &lt;em&gt;Burning Rope Fuse (zaman sayacı)&lt;/em&gt; devreye girer. Zaman sayacı bitmesine karşın hiçbir şey yapılmazsa sonraki tur zaman sayacı süresi, bir kart oynayana kadar 7 saniyeye düşer. Genellikle oyuncunun oyundan düşmesi sonrası bu durum görülür. Ayrıca oyun 89 turdan daha fazla olamaz (&lt;em&gt;1:siz, 2:rakip, 3:siz gibi&lt;/em&gt;). 89 tur süren oyunlarda 90’ıncı tura girildiğinde her iki oyuncuyu da oyun mağlup ilan eder. Fakat bu çok nadir görülen bir durumdur. Çünkü ilk başlayan oyuncunun 53’üncü turda destesinde kart kalmaması ve maksimum 65’inci turda mağlup ya da galip gelmesi durumu gerçekleşir. Destesindeki tüm kartları çekmiş olan oyuncu, her tur için &lt;strong&gt;Fatigue (Ceza)&lt;/strong&gt; hasarı alır. Fatigue her tur için 1 hasardan başlayıp birer birer artarak devam eder (&lt;em&gt;sonraki tur 2 hasar, daha sonra 3 hasar gibi&lt;/em&gt;). Bir deste 30 kart ile başlar. Özel durumlarda daha fazla karta sahip olunabilir. Özel durumlar olmasına karşın bu destedeki kartların sayısı 60’ı geçemez. Oyun esnasında bir oyuncu elinde maksimum 10 kart tutabilir. 11’inci kartı çekmek istediğinde o kart her iki oyuncuya da gösterilerek yok olur. Fazla çekilmeden kaynaklı kartın yok olması &lt;em&gt;Discard (elden çıkarma)&lt;/em&gt; ya da &lt;em&gt;Resurrect (yeniden diriltme)&lt;/em&gt; mekaniklerine etki etmez. Oyun sahasında her oyuncunun kendi bölgesi için 7 yaratık kartından fazlası duramaz. Özel &lt;em&gt;Deathrattle (ölünce çalıştırma)&lt;/em&gt; kartları bazı durumlarda fazladan sahaya yaratık verebilmekte. Eğer sahada 7 yaratık halihazırda varsa, ölüm sonrası sadece 1 yaratık sahaya gelebilir, diğer yaratık gelmez. Bazı özel kartlar yaratıkları rakibin eline yeniden geri verebilir. Eğer oyuncunun elinde 10 kart varsa ve rakipten bu tip bir kartı görmüşse, oyuncunun eli dolu olduğundan o kart ölür ve Discard çalışmasa bile Deathrattle çalışır.&lt;/p&gt;
+
+&lt;h3 id=&quot;06-yaratık-kartları&quot;&gt;06. Yaratık Kartları&lt;/h3&gt;
+
+&lt;p&gt;Saldırı ve sağlık puanı olan her kart yaratık kartıdır. Örneğin; oyun başında size verilen &lt;em&gt;Murloc Raider&lt;/em&gt; kartını ele alalım. Sol üst kısmında o kartın oynanabilen mana değeri, sol altta vereceği hasar değeri, sağ altta ise alabileceği maksimum hasar yer almakta. Altta ortada yazan “&lt;strong&gt;Murloc&lt;/strong&gt;” yazısı ise o yaratık kartının sınıfını göstermektedir. Murloc kartları ile etkileşime girebilen bir kart olduğu için özellikle belirtilmiştir. Bu tip sınıf kartları, kendi içerisinde güçlü sinerji oluşturduğu ve farklı destelerin ortaya çıkmasını sağladığı için Blizzard tarafından özellikle oluşturulmuştur ve bu tip sınıfların daha fazla olması için çaba gösterilmektedir. Bu yaratık kartı sınıflarını; &lt;strong&gt;Beast&lt;/strong&gt;, &lt;strong&gt;Demon&lt;/strong&gt;, &lt;strong&gt;Dragon&lt;/strong&gt;, &lt;strong&gt;Elemental&lt;/strong&gt;, &lt;strong&gt;Mech&lt;/strong&gt;, &lt;strong&gt;Murloc&lt;/strong&gt;, &lt;strong&gt;Pirate&lt;/strong&gt; ve &lt;strong&gt;Totem&lt;/strong&gt; sınıfları oluşturur. Sınıfların haricinde hiçbir sınıfa dahil olmayan kartlar da mevcuttur. Bu kartların alt kısmının ortasında hiçbir kelime yazmamaktadır. Her yaratık kartı oyuna sürüldükten sonra saldırmak için bir tur bekler. &lt;em&gt;Charge&lt;/em&gt; özelliğine sahip kartlar bu durumdan hariç tutulur.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../../assets/images/minion-card.png&quot; alt=&quot;Minion-Card&quot; title=&quot;Yaratık Kartı&quot; style=&quot;padding-left:20%;width:80%&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Oyun içerisinde yaratıkların takas edilme durumu şu şekilde gerçekleşir. Sahanızdaki yaratığın saldırı puanı, rakip sahadaki yaratığın sağlık puanından fazla ise onu yok edebilirsiniz. Rakip sahadaki yaratığın saldırı puanı eğer sizin saldırma emrini verdiğiniz yaratığın sağlık puanından fazla ise sizin yaratığınız da yok olacaktır. Aksi durum için, eğer saldırı puanınız rakip yaratığın sağlık puanından fazla değilse saldırı puanı kadar hasar verirsiniz. Aynı şey savunma yapan yaratık için de geçerli. Örneğin; Murloc Raider ile &lt;em&gt;Chillwind Yeti&lt;/em&gt; kartına saldırdınız. Bu durumda Chillwind Yeti kartının &lt;strong&gt;5&lt;/strong&gt;(kendi sağlığı) &lt;strong&gt;- 2&lt;/strong&gt;(Murloc Raider’ın saldırı gücü) &lt;strong&gt;= 3&lt;/strong&gt; canı kalacaktır. Ve Murloc Raider da aynı şekilde &lt;strong&gt;1&lt;/strong&gt;(kendi sağlığı) &lt;strong&gt;- 4&lt;/strong&gt;(Chillwind Yeti’nin saldırı gücü) &lt;strong&gt;= -3&lt;/strong&gt; canı kalacak ve yok olacaktır.&lt;/p&gt;
+
+&lt;h3 id=&quot;07-kart-mekanikleri&quot;&gt;07. Kart Mekanikleri&lt;/h3&gt;
+
+&lt;p&gt;Aslında bu mekanikleri yaratık kartları bölümünde anlatacaktım fakat mekanikler sadece yaratık kartları ile sınırlı kalmadığı için bu şekilde ele almayı daha mantıklı gördüm. Hearthstone’da oyunun gidişatını değiştiren en etkili şey hiç şüphesiz kartların sahip olduğu mekaniklerdir. Bunlar;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../../assets/images/battlecry-mechanic.png&quot; alt=&quot;Battlecry-Mechanic&quot; title=&quot;Kart Mekanikleri&quot; style=&quot;padding-left:20%;width:80%&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Battlecry (Savaş Narası)&lt;/strong&gt;: Kart ilk sahaya sürüldüğünde gerçekleşecek aksiyondur. Kart sahaya sürüldüğü andan itibaren kartın üzerinde yazan eylemi gerçekleştirir. Sahaya sürüldükten sonra eğer aksiyon gerçekleşmemişse iptal edilebilir.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Deathrattle (Ölünce Çalışır)&lt;/strong&gt;: Sahaya sürdüğünüz kartın yok olduğunda gerçekleştireceği aksiyondur.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Charge (Anında Saldırı)&lt;/strong&gt;: Yaratık kartını sahaya sürdüğünüz gibi saldırı yapabilmenizi sağlar.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Adapt (Adaptasyon)&lt;/strong&gt;: Sizin karşınıza çıkan 3 opsiyondan birisini seçmenizi ister ve ona göre özellikler alır. Opsiyonlar rastgele gelmektedir. Opsiyonlar; &lt;em&gt;Divine Shield&lt;/em&gt; | &lt;em&gt;+3 Attack&lt;/em&gt; | &lt;em&gt;Deathrattle: Summon two 1/1 Plants&lt;/em&gt; | &lt;em&gt;Windfury&lt;/em&gt; | &lt;em&gt;Can’t be targeted by spells or Hero Powers&lt;/em&gt; | &lt;em&gt;Taunt&lt;/em&gt; | &lt;em&gt;+1/+1&lt;/em&gt; | &lt;em&gt;+3 Health&lt;/em&gt; | &lt;em&gt;Stealth until your next turn&lt;/em&gt; | &lt;em&gt;Poisonous&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Choose One (Birini Seç)&lt;/strong&gt;: Karşınıza çıkan opsiyonlardan birisini seçmenizi ister. Genellikle Druid sınıfı kartlarında görülmektedir.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Choose Twice (İki Defa Seç)&lt;/strong&gt;: Karşınıza çıkan opsiyonlardan birisini 2 defa seçmenizi ister. Genellikle Druid sınıfı kartlarında görülmektedir.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Combo (Kombo)&lt;/strong&gt;: Öncesinde bir kart oynanması gereken aksiyon kartıdır. Eğer öncesinde bir kart oynanmazsa Combo kısmında yazan özellik aktif olmayacaktır. Genellikle Rogue sınıfı kartlarında görülmektedir.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Discard (Elden Çıkarma)&lt;/strong&gt;: Elinizde bulunan kartlardan istenilen sayı kadarını rastgele elden çıkartır ve o kartları yok eder. Genellikle Warlock sınıfı kartlarda görülmektedir.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Divine Shield (Dokunulmazlık Kalkanı)&lt;/strong&gt;: Rakipten gelen ilk hasarı yoksayan bir kalkana sahip yaratık kartlarıdır. Poisonous hasar türü kalkanı delemez. Direkt yok eden yaratık kartları ya da büyü kartları kalkanı delebilir.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Discover (Keşfet)&lt;/strong&gt;: Karşınıza çıkan 3 karttan birisini seçmenizi ister ve onu elinize ekler.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Enrage (Öfkelenme)&lt;/strong&gt;: Yaratık hasar aldığında üzerinde yazan aksiyonu gerçekleştirir. Eğer yaratık tekrar sağlık puanı maksimum puanına dönerse (örneğin priest tarafından Heal kullanılırsa) Enrage özelliği kaybolur.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Immune (Dokunulmaz)&lt;/strong&gt;: Immune özelliği aktiften karakter hiçbir şekilde büyü ya da saldırı hasarı almaz. Direkt yoketme büyüleri ve yaratıkları da işe yaramaz.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Inspire (Hero Power Kullanıldığında)&lt;/strong&gt;: Hero Power kullanıldığında ilgili aksiyonu gerçekleştirir. En son &lt;a href=&quot;https://us.battle.net/hearthstone/en/expansions-adventures/the-grand-tournament/&quot;&gt;The Grand Tournament&lt;/a&gt; eklentisi ile oyuna girmiş olan mekanik daha sonra diğer Expansion’larda nedense pek kullanılmadı.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Lifesteal (Can Çalma)&lt;/strong&gt;: Verilen hasar kadar sağlık puanını kahramana geri döndürür.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Overload (Aşırı yüklenme)&lt;/strong&gt;: Üzerinde yazan miktar kadar Mana Crystal’i sonraki turda bloklanır. Genellikle Shaman sınıfı kartlarda görülmektedir.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Poisonous (Zehirleme)&lt;/strong&gt;: Kahraman harici hasar verdiği bir yaratığı anında öldürür. Eğer yaratıkda Divine Shield varsa etki etmez.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Recruit (Toplama)&lt;/strong&gt;: Destedeki bir yaratığı sahaya çağırır. &lt;a href=&quot;https://playhearthstone.com/en-us/expansions-adventures/kobolds-and-catacombs/&quot;&gt;Kobolds and Catacombs&lt;/a&gt; Expansion’u ile birlikte gelmiştir.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Silence (Susturma)&lt;/strong&gt;: Bir yaratığın özelliklerini ve o zamana kadar almış olduğu bütün yükseltme özelliklerini susturur ve yok sayar.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Spell Damage (Büyü Hasarı)&lt;/strong&gt;: Kullanılan Spell kartlarına ait büyü hasar miktarını arttırır.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Stealth (Görünmez)&lt;/strong&gt;: Karakterin görünmez olmasını ve saldırı yapmadıkça da görünmez kalmasını sağlar. Bazı kartlar sadece bir tur görünmezlik sağlar.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Summon (Çağırma)&lt;/strong&gt;: Aksiyon kartı sahaya bir yaratık çağırır. Summon kartlarının üzerinde genellikle ne özelliğe sahip yaratıkların çağırılacağı yazmaktadır.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Taunt (Üzerine Çekme)&lt;/strong&gt;: Sahaya sürüldüğünde rakip yaratıkların diğer karakterlere hasar vermesini önler. En azından kendisi ölene kadar önler diyelim.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Transform (Dönüştürme)&lt;/strong&gt;: Sahadaki bir yaratığı başka bir yaratığa dönüştürür. Bu dönüştürme esnasında yaratığın kazandığı bütün yükseltme özellikleri silinecektir.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Windfury (Fazladan Saldırı)&lt;/strong&gt;: Bir tur içerisinde 2 defa saldırmasına olanak tanır. Aynı karaktere ya da farklı karakterlere saldırabilir.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Actions (Aksiyonlar)&lt;/strong&gt;: Oyundaki yaratığın altında elektrik simgesi ile gösterilen, bir durum olduğunda bir etkileşime gireceğini belirten mekaniktir. Bunlar yazılı olarak ifade edilir. Bazıları tur sonunda bazıları ise tur başında bazıları ise bir olay gerçekleştikten sonra gerçekleşir. Örneğin; Doomsayer bir sonraki turun başında sahadaki bütün kartları yok eder. Bu tip kartlar için özel bir mekanik ismi tanımlanmadığından Actions adıyla geçiştirdim.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;And Others (Ve Diğerleri)&lt;/strong&gt;: Aslında başka mekanikler de var. Örneğin &lt;strong&gt;Freeze&lt;/strong&gt;, &lt;strong&gt;Elusive&lt;/strong&gt;, &lt;strong&gt;Permanent&lt;/strong&gt; gibi… Fakat bunlar özel bir mekanik isminden çok bir kartın açıklamasındaki cümlede uzun uzadıya yazılan açıklamalar olduğu için bunlara pek girmeyeceğim.&lt;/p&gt;
+
+&lt;h3 id=&quot;08-büyü-kartları&quot;&gt;08. Büyü Kartları&lt;/h3&gt;
+
+&lt;p&gt;Büyü kartları (Spell Cards) tüm sınıflar için vazgeçilmez olan ve en sıkışılan anda kurtaracak olan kartlardır. Karşıdaki 8/8’lik yaratığı 1/1’lik bir kuzuya dönüştürmeyi kim istemez.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../../assets/images/spell-cards.png&quot; alt=&quot;Spell-Cards&quot; title=&quot;Büyü Kartları&quot; style=&quot;padding-left:15%;width:85%&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Büyü kartları bazı durumlarda rakibin turunda aktifleştirmek üzere kullanılabilir. Bu tip büyü kartlarına &lt;strong&gt;Secret (tuzak)&lt;/strong&gt; kartı denir (&lt;em&gt;secret tuzak diye çevrilmez, biliyorum fakat en uygun tanım aslında bu&lt;/em&gt;). Tuzak kartları rakibin oynadığı bir kart üzerine aktifleşir. Sahada olan bir tuzak kartı yeniden oynanamaz. Yeniden oynanabilmesi için o tuzağın öncelikle aktifleşmesi gerekmektedir. Şu an için Mage, Hunter, Paladin ve Rogue sınıflarında secret kartları bulunmaktadır. Diğer sınıflarda secret kartları bulunmamaktadır.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../../assets/images/secrets.png&quot; alt=&quot;Secrets&quot; title=&quot;Tuzak ve Tavuk&quot; style=&quot;width:100%&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Bazı durumlarda ise büyü kartı size bir görev verir ve görevin sonunda size bir ödül verir. Bu tip büyü kartlarına da &lt;strong&gt;Quest (görev)&lt;/strong&gt; kartı denir. Quest kartları Legendary tipi kartlardır.&lt;/p&gt;
+
+&lt;p&gt;Büyü kartları hasar verme, yaratık güçlendirmesi, tuzak kurma, görev yapma gibi durumlarda kullanılabilir. Farklı büyü kartı türevleri de mevcuttur. Örneğin elde tutulduğunda Upgrade edilebilen spelstone kartları gibi bazı fantastik kartlar da vardır. Fakat bu maddede bu konulara çok fazla değinmek gerekmediği kanaatindeyim. Tüm büyü kartlarının üzerinde hangi aksiyonları gerçekleştireceği yazılıdır. Diğerleri için İngilizce’nize kuvvet anlayacağınız…&lt;/p&gt;
+
+&lt;h3 id=&quot;09-silah-kartları&quot;&gt;09. Silah Kartları&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;../../assets/images/weapon.png&quot; alt=&quot;Weapons&quot; title=&quot;Silah Kartı&quot; style=&quot;padding-left:20%;width:80%&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Kahramanı saldırı modunda oyuna sokan, tur bekletmeden (&lt;em&gt;Charge özelliği gibi&lt;/em&gt;) saldırı yapmanıza imkan sağlayan kartlardır. Saldırı puanları ve dayanıklılıkları vardır. Silahın yok edilmesi için dayanıklılığın dolmuş olması ya da silahı yok eden bir kartın sürülmüş olması gereklidir. Silahlar bir takım yükseltmeler alabilir. Hasar gücü ya da dayanıklılığı arttırılabilir. Ele alınması herhangi bir şekilde engellenemez. Kontrol oyunlarında önemli rol oynarlar.&lt;/p&gt;
+
+&lt;h3 id=&quot;10-kahraman-kartları&quot;&gt;10. Kahraman Kartları&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;../../assets/images/hero-card.png&quot; alt=&quot;Hero-Card&quot; title=&quot;Kahraman Kartı&quot; style=&quot;width:100%&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Knights of the Frozen Throne Expansion’u ile birlikte çıkmış olan kartlardır. Hero kartları, kahramanın mevcut Hero Power’ını değiştirir, extra armor verir ve Battlecry, Stealth gibi özelliklere sahip olabilirler. Bazı durumlarda ciddi manada oyun çehresini değiştirirler. Blizzard size Knights of the Frozen Throne macerasının &lt;em&gt;Prologue&lt;/em&gt; aşamasını tamamladığınızda rastgele bir sınıfa ait bedava bir Hero Card verir. Hero kartı kullanımı Tutorial kısmında gösterilmez.&lt;/p&gt;
+
+&lt;h3 id=&quot;11-oyun-modları&quot;&gt;11. Oyun Modları&lt;/h3&gt;
+
+&lt;p&gt;Oyun kendi içerisinde temelde 2 tane mod bulundurmaktadır. Gerçek oyunculara karşı ve bilgisayara karşı. Fakat oyuna ilk defa karakter açan oyuncular için bir &lt;strong&gt;Tutorial (eğitim)&lt;/strong&gt; modu da bulunmaktadır. Tutorial modunda 6 adet boss ile mücadele verirken aynı zamanda oyunun mekaniklerini öğrenmeniz sağlanır. 6 boss arasından herhangi birisine yenilirseniz o boss ile oyun yeniden başlar ve size sonraki oyunda onu yenmeniz için bir ipucu verir. Gerçek oyunculara karşı 2 mod mevcuttur. &lt;strong&gt;Wild&lt;/strong&gt; ve &lt;strong&gt;Standart&lt;/strong&gt; mod. Bu oyun modları yeni oyuncuların daha kolay oyuna adapte olmasını sağlamak için ikiye ayrılmıştır. Standart modda iki yıl öncesine kadarki tüm kartlar kullanılabilir, iki yaşından büyük kartlar kullanılamaz. Wild modda ise tüm kartların kullanımı serbesttir. Bu sebeple hiç görmediğiniz ve hiç tanımadığınız kartları görmeniz gayet doğal bir durum. Standart modu ele alırsak gerçek oyunculara karşı oynanan oyunları sıralamak gerekirse;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../../assets/images/game-modes.png&quot; alt=&quot;Game-Modes&quot; title=&quot;Oyun Modları&quot; style=&quot;padding-left:10%;width:90%&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Play Mode (Casual)&lt;/strong&gt;: Gerçek oyunculara karşı dostane maçlar yapmanızı sağlayan bir moddur. Oyunda yenmeniz ya da yenilmeniz size bir yarar ya da zarar sağlamaz. Bu sebeple bu modda daha çok eğlence amaçlı &lt;em&gt;Deck (kart destesi)&lt;/em&gt; yapanlar takılırlar.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Play Mode (Ranked)&lt;/strong&gt;: Gerçek oyuncularla sıralama maçlarını yapmanızı sağlayan bir moddur. Tepelere tırmandıkça ay sonunda Blizzard bir takım ödüller vermektedir. Ödülleri sadece Rank 20 ve üzeri oyuncular alabilmektedir. Bu arada rank sistemi artan değil, azalan bir eğilim izlemektedir. Yani Rank 1’deki oyuncu Rank 20’den daha iyidir (&lt;em&gt;bayağı uçuk örnek oldu&lt;/em&gt;). Bunun haricinde Rank 1’i geçmeniz durumunda &lt;strong&gt;Legend Rank&lt;/strong&gt;lara erişirsiniz. Legend Ranklar içerisinde ilk 100 oyuncunun ismi Blizzard’ın sitesinde her ay yayınlanır. Her 20 - 15 - 10 - 5 - Legend Rank’ları için millstone sahibi olursunuz ve bu ranklardan aşağı ay sonuna kadar yenilseniz dahi düşemezsiniz. Ayrıca 20’inci Rank’a erişene kadar yine Rank düşemezsiniz.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../../assets/images/play-mode.png&quot; alt=&quot;Play-Mode&quot; title=&quot;Play Mode&quot; style=&quot;padding-left:10%;width:90%&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Arena&lt;/strong&gt;: 150 gold ya da gerçek para ile giriş yapıp Blizzard’ın sizin için özenle kriz etmek için seçtiği 3 tane karttan birini seçerek oluşturduğunuz destenizle diğer oyunculara karşı maçlar yapmanızı sağlayan bir moddur. Her rakibi yendiğinizde ödül sandığınızı geliştirirsiniz. Sandığın içerisinden Kart paketi, Dust, Gold ve Kart çıkabilmektedir. Ne kadar çok insan elerseniz o kadar iyi bir ödüle sahip olursunuz. Bir Arena Run’ı içerisinde 3 defa yenilme hakkınız var. Maksimum galibiyet ve büyük ödüle ulaşmak için gereken rakip eleme sayısı 12 kişidir. Fakat bunun çok zor bir iş olduğunu belirtmekte fayda var.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Tavern Brawl&lt;/strong&gt;: Blizzard tarafından her hafta yapılan, eğlence amaçlı, ilk kazandığınız maçta bir adet kart paketi hediye eden diğer oyuncularla oynamanızı sağlayan oyun modudur. Sadece ilk kazanılan oyunda hediye paketi verilmektedir. Diğer oyunlar tamamiyle eğlence amaçlıdır. Hatta bunu öyle çok kişi sormuş ki, Blizzard oyun içerisinde “&lt;em&gt;Win to Tavern Brawl is not reward additional card packs. It’s just for fun.&lt;/em&gt;” diye açıklama ihtiyacı hissetmiş.&lt;/p&gt;
+
+&lt;p&gt;Oyun içerisinde bu tip gerçek oyuncuların haricinde oyunun yapay zekasına karşı oynanan oyunlar da mevcut.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Pratice Mode&lt;/strong&gt;: Bu modda Normal ve Expert botlara karşı oyunlar oynayabilir, yaptığınız desteleri deneyebilir, hızla kahramanlarınızı 10’uncu seviyeye getirebilirsiniz. Normal ve Expert moddaki tüm botları yendiğinizde size 200 gold ödül verecektir. Botları yen, 200 gold’u kap. Ne güzel değil mi?&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../../assets/images/adventure-mode.png&quot; alt=&quot;Adventure-Mode&quot; title=&quot;Adventure Mode&quot; style=&quot;padding-left:10%;width:90%&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Adventures&lt;/strong&gt;: Oyun içerisinde gerçek para ya da oyun parası ile satın alma yoluyla oynayabileceğiniz maceralar bulunuyor. Ödül olarak da çoğu oyuncunun meta destelerde kullandığı güçlü kartları oluyor genellikle. Ayrıca Heroic modu tamamladığınızda size özel bir kart arkası görünümü de hediye ediyor.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Dungeon Run&lt;/strong&gt;: Kobolds and Catacombs ile hayatımıza giren özel bir mod. Bu mod sayesinde sırayla tüm Boss’ları yenmeye çalışırken diğer yandan da bize sunduğu kartların güçlü olması sebebiyle en eğlenceli anlara tanık olabiliyoruz. Final Boss’a karşı oyunu ikinci turda bitirenler mi dersin, Boss’un 1 canı kala yenilip kriz geçirenler mi dersin hepsi burada. Oyunu tüm sınıflar için tamamladıktan sonra özel bir kart arkası görünümü hediye ediyor Blizz’ciğim.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Biliyorum, biraz uzun oldu. Hiç okumadım gerçi ne yazmışım. Uzun olduğunu saat 22:12’de başladığım bu yazının saat 02:34 olmasına rağmen hala yazmaya devam etmemden anladım. Daha bunun link düzeltmeleri var, üzerinden geçmesi var, ohooo… Oyuna temel bir giriş yapmış olduk zannımca. Neyse, sonraki yazılarda daha bahsederim bu güzel oyun ile ilgili düşüncelerimden.&lt;/p&gt;
+
+&lt;p&gt;Afiyet Olsun.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;Edit:&lt;/strong&gt; Bu yazıyı bir gün sonrasında resimler ekleyip, kontrol edip, okuyup, &lt;strong&gt;MAŞAALLAH&lt;/strong&gt; çekip yayınlıyorum. Saat bu sefer 03:17, ben bunu neden yapıyorum ki diye sorguladığım saatlerdeyiz. Yatmadan önce tüm insanlara akıl, fikir, sevgi ve saygı diliyorum. Esen kalın…&lt;/p&gt;</content><author><name>Aydın Kabataş</name><email>aydin.kabatas@hotmail.com</email></author><category term="hearthstone" /><summary type="html">Uzun zamandır böyle bir rehber yapmayı düşünüyordum. Aslında nereden başlayacağımı bilmiyorum, eğer lönk diye konuya atılırsam kusura bakmayın. Bu rehberi yapmamın sebebi tamamiyle bu oyunu gerçekten çok sevmemden ve Türkiye’den daha fazla oynayan kişi görme isteğimden kaynaklanıyor.</summary></entry><entry><title type="html">A Different Idea</title><link href="http://localhost:4000/articles/a-different-idea/" rel="alternate" type="text/html" title="A Different Idea" /><published>2017-11-19T00:00:00+03:00</published><updated>2017-11-19T00:00:00+03:00</updated><id>http://localhost:4000/articles/a-different-idea</id><content type="html" xml:base="http://localhost:4000/articles/a-different-idea/">&lt;p&gt;İstatistik denilince akla gelecek en son şehir sanırım &lt;strong&gt;Konya&lt;/strong&gt; olur.&lt;/p&gt;
 
 &lt;p&gt;Burada eğer hala duruyorsam, &lt;del&gt;&lt;em&gt;sebebi kopartılan çiçekler değil&lt;/em&gt;&lt;/del&gt; şu sürekli elime ayağıma dolaşan yüksek lisans zamazingosundan ötürü. Eğer ki şimdiki aklım iki sene önce başımda olaydı, yüksek lisansa hiç başlamazdım sanırım (çünkü bilim, Kerimcan Durmaz’ın DJ’liği kadar para etmiyor). Şu anda ticaret odasının da desteklediği bir proje üzerinde dışarıdan çalışan &lt;strong&gt;sigortasız ve asgari ücrete tabii bir çalışan&lt;/strong&gt; olarak elime çok sayıda firma bilgisi geçmekte ve bu bilgilerden edindiğim kadarıyla bu firmaların büyük bir çoğunluğu AR-GE’den uzak, kara düzen çalışan, plansız ve programsız şirketler oldukları görülmekte. Zaten son çalıştığım yer de &lt;strong&gt;kurumsal&lt;/strong&gt; olmasına karşın beyaz yakalı personeline asgari ücreti çok gören bir yer olduğundan bu veriler haklılığımı pekiştirici örnekler oldu diyebilirim.&lt;/p&gt;
 
-&lt;p&gt;Peki naaapıcan? &lt;strong&gt;Cevap:&lt;/strong&gt; Hiçbişi..&lt;/p&gt;
+&lt;p&gt;Peki naaapıcan? &lt;strong&gt;Cevap:&lt;/strong&gt; Hiçbişi…&lt;/p&gt;
 
-&lt;p&gt;Kendi ticari çıkmazlıkları yüzünden kaybetmeye mahkum bir şehir. Çalışana para vermemek için kırk takla atan, daha sonra ürünlerim neden istenilen satış rakamlarında satılmıyor diye ağlananlara sazı soksanız az. Nasıl yani? Şöyle ki..&lt;/p&gt;
+&lt;p&gt;Kendi ticari çıkmazlıkları yüzünden kaybetmeye mahkum bir şehir. Çalışana para vermemek için kırk takla atan, daha sonra ürünlerim neden istenilen satış rakamlarında satılmıyor diye ağlananlara sazı soksanız az. Nasıl yani? Şöyle ki;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;OYUN ZAMANI&lt;/strong&gt;&lt;/p&gt;
 
@@ -57,13 +261,13 @@ Aslında doğada bu durumun benzerlerini sürekli görmekteyiz. Güçlü olanın
 
 &lt;p&gt;Güçlünün güçsüzü ezmesi, canlı doğasında bulunan bir gerçektir. Güçsüzler için iki durum söz konusudur. Ya güçlüleri aldatıp kendisi de güçlenecek, ya da iş birliği yapmak durumunda kalacaktır. Aksi durum, ezilmeye devam etmesi demektir.&lt;/p&gt;
 
-&lt;p&gt;Drongo kuşu, mirketleri ses taklidi ile aldatıp onların yemeklerini çalmakta. Bir başla kuş türü olan bal kuşu, alacağı bir yiyecek payına karşılık Afrika yerli kabilelerinin bireylerine bal kovanlarının yerini göstermektedir. Bu kuş pay almadığı taktirde sizi bir aslanın tuzağına ya da bir ayının mağarasına da götürebilir. karnınızın doyması ya da ölmeniz bu kuş ile yapacağınız ticaretin dürüstlüğüne bağlıdır.&lt;/p&gt;
+&lt;p&gt;Drongo kuşu, mirketleri ses taklidi ile aldatıp onların yemeklerini çalmakta. Bir başka kuş türü olan bal kuşu, alacağı bir yiyecek payına karşılık Afrika yerli kabilelerinin bireylerine bal kovanlarının yerini göstermektedir. Bu kuş pay almadığı taktirde sizi bir aslanın tuzağına ya da bir ayının mağarasına da götürebilir. karnınızın doyması ya da ölmeniz bu kuş ile yapacağınız ticaretin dürüstlüğüne bağlıdır.&lt;/p&gt;
 
 &lt;p&gt;İnsan ırkının ticari ilişkileri de buna benzer. Karşılıklı büyüme, ya da aldatma yolu ile güvensizliğe dayalı ilişki oluşturma arasında gidip gelmektedir.&lt;/p&gt;
 
 &lt;p&gt;Bunun haricinde bu şirketler içerisindeki ilişkiler de önemlidir. Karşılıklı büyümeyi destekleyen şirketler olduğu kadar (&lt;em&gt;ve hatta daha fazla&lt;/em&gt;) sadece şirketin büyümesini düşünüp çalışanlarının menfaatlerini yok sayan işletmeler de bulunmaktadır.&lt;/p&gt;
 
-&lt;p&gt;Kısa vadede kar elde eden bu şirketler, uzun vadede nitelikli personel sıkıntısı çekip kalifiyesiz eleman çalıştırmanın ve personel eğitim masraflarının yansımasıyla daha çok zarar elde etmektedirler.&lt;/p&gt;
+&lt;p&gt;Kısa vadede kâr elde eden bu şirketler, uzun vadede nitelikli personel sıkıntısı çekip kalifiyesiz eleman çalıştırmanın ve personel eğitim masraflarının yansımasıyla daha çok zarar elde etmektedirler.&lt;/p&gt;
 
 &lt;p&gt;İşte ben hep bu tür işletmelerde çalışmış olduğumdan maalesef herhangi bir düzen oturtabilmiş değilim. Bu sebeple doğal seçilim beni elemek için geliyor.&lt;/p&gt;
 
