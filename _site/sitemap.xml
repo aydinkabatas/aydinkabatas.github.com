@@ -21,6 +21,10 @@
 <lastmod>2017-12-22T00:00:00+03:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/hearthstone/hearthstone-nerf-10.2/</loc>
+<lastmod>2018-01-30T00:00:00+03:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/hakkinda/</loc>
 </url>
 <url>
@@ -71,5 +75,8 @@
 </url>
 <url>
 <loc>http://localhost:4000/year-archive/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/page2/</loc>
 </url>
 </urlset>
