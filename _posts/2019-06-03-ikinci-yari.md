@@ -5,7 +5,7 @@ title: "İkinci Yarı!"
 category: articles
 ---
 
-En son 6 ay önce yeni yıla dair "umutsuzluklarımı" [klavyeye almıştım](https://aydinkabatas.github.io/yeni-yila-girerken) (internet için blog postu yazınca da "kaleme almak" yerine "klavyeye almak" gibi dandik terimler ürüyor malesef). Malesef düşüncelerimde yanılmadım. Her geçen gün, biraz daha "adaletsiz" bir ülke olmaya doğru yol aldığımız için ekonomik sıkıntılar ve halkın umutsuzluğu devam etmekte.
+En son 6 ay önce yeni yıla dair "umutsuzluklarımı" [klavyeye almıştım](https://aydinkabatas.github.io/articles/yeni-yila-girerken) (internet için blog postu yazınca da "kaleme almak" yerine "klavyeye almak" gibi dandik terimler ürüyor malesef). Malesef düşüncelerimde yanılmadım. Her geçen gün, biraz daha "adaletsiz" bir ülke olmaya doğru yol aldığımız için ekonomik sıkıntılar ve halkın umutsuzluğu devam etmekte.
 
 En son yaşanan "İstanbul seçimi" de tuz-biber oldu. Uzun uzun siyaset yapmayacağım, çünkü insanlar artık eskisi kadar kör değil. Siyasete oynayıp, rant zengini olanları gördükçe ve hukuk iyiden iyiye göz göre göre yok sayıldıkça **bazı** insanlar silkelenip "biz ne yapıyoruz yahu" demeye başladı. Ben ise, halen bir afetin zuhul etmesini ve içimizdeki hiçbir katma değeri olmayan, boşa oksijen tüketen %60'lık kesimi götürmesini bekliyorum. Bu %60 öyle bir %60'tır ki, sanatı kötüler, edebiyata karşıdır, kitap okumaz ve bununla övünür, "DİN" der; racon keser ama namaz kılmaz; Kur'an okumaz, "ŞIH" der; bir adamın tükürüğünden medet umar, "DOĞUYU YAKACAN AGA!" der; doğudan uzakta; marmaris'te; turisti taciz eder... Ve evet, bu andavallar halkın %60'ını oluşturmaktadır. Adolf Hitler'in faşistliği gibi her geçen gün bu %60'a kinim daha da fazla artıyor. *Sonra bir soda içiyorum, sakinleşiyorum.*
 
