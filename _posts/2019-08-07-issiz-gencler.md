@@ -63,7 +63,7 @@ Sonra da vay efendim Türkiye'de neden siyasetten bağımsız bir işyeri yok. *
 
 ### 8. Mafya olayları ve hükümetle ilişkisi
 
-Meşhur mafya babası, artık elini eteğini mafya işlerinden çekmiş ve ticarete atılmış. Herkes onu ticaret adamı olarak saymak zorunda kalmış, ama arka plandaki işleyişi aynı *(asar keser o haracı *~~pardon parayı~~* alır)*. Bu mafya babası hükümeti destekliyor, desteklemeyenlerin kanını dökmekten keyif duyacağını belirtiyor. Ve bir gün, haracını aldığı A firmasındaki bir adamı vasıtasıyla bir fotoğraf atıp "size hammadde satmaya geliyoruz" diyor (hadi, yiyorsa alma). Bu adam, 10 TL'lik hammaddeyi 12 TL'ye satacağım dese kim ne diyebilir ki?
+Meşhur mafya babası, artık elini eteğini mafya işlerinden çekmiş ve ticarete atılmış. Herkes onu ticaret adamı olarak saymak zorunda kalmış, ama arka plandaki işleyişi aynı *(asar keser o haracı* ~~pardon parayı~~ *alır)*. Bu mafya babası hükümeti destekliyor, desteklemeyenlerin kanını dökmekten keyif duyacağını belirtiyor. Ve bir gün, haracını aldığı A firmasındaki bir adamı vasıtasıyla bir fotoğraf atıp "size hammadde satmaya geliyoruz" diyor (hadi, yiyorsa alma). Bu adam, 10 TL'lik hammaddeyi 12 TL'ye satacağım dese kim ne diyebilir ki?
 Polise şikayet edilemiyor, çünkü polis ve hükümet bu adamı destekliyor. Gerekçelerini bilmiyorum. Bu mafya babası arka planda ilgili hükümetin partisine el altından finansal yardım yapıyor olabilir (kuvvetle muhtemel).
 
 Böyle bir ortamda insan ticarethane açmaktan korkuyor, olan ticarethanesini de büyütmekten imtina ediyor. Bu sebeple Türkiye içerisinde asla bir Apple, bir Microsoft, bir Burger King vs... çıkmayacak. Büyümeyi düşünen firmalar da soluğu yurtdışında firma açmakta alıyor.
