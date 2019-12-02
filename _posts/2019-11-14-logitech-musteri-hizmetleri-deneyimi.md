@@ -27,7 +27,7 @@ Ardından ilgili sayfaya iletişimimi sağladım. Sayfadaki belgeyi çıktı al�
 
 Kargonun içerisinde yeni garanti şartları, farenin vericisinin nasıl fareye bağlanacağı, kullanım talimatları vesaire vardı. Logitech **"Logitech Connection Utility"** isimli programla vericiyi fareye bağlayabileceğimi söylüyordu. Fakat ben şansımı **"Logitech Options"** üzerinden denemek istedim. Ve sonuç; işe yaradı! Farem gayet güzel çalışıyor. Sanırım Logitech artık klavuzuna **"ayrıca Logitech Options ile de bağlayabilirsiniz"** gibi bir ibare koymalı.
 
-###Peki, bu destekten memnun kaldım mı?###
+### Peki, bu destekten memnun kaldım mı?
 
 Kesinlikle en memnun kaldığım teknik destek hizmetlerinden birisiydi. Farenin satın aldığım zamanki fiyatı 30-35 TL civarındaydı. Fakat bugün o vericiyi Hollanda'dan Türkiye'ye göndermek muhtemelen bu fiyatın 3-4 katına tekabül etmiştir. Logitech için ciddi bir maddi yük, fakat muhtemelen benim gibi pek fazla insan bu desteği istemediği için bu maliyeti bir sorun olarak görememekteler. Ayrıca garanti servisinin ve markanın itibarı, uzun vadede daha fazla kazanç sağlayacağı için bu maliyeti göz ardı edebilirler.
 
