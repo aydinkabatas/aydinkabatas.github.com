@@ -25,7 +25,7 @@ Yaklaşık 1,5 ay sonra sevk yerleri ve tarihleri tarafımıza ulaştı. Ulaşt�
 
 Etrafımızdaki bedelliye başvuran bütün tanıdığımız arkadaşlar / akrabalar / akbabalar vs... askerliklerini yapmış, aralarında bir tek ben kalmıştım. Resmen en son bedelli askerliği yapan kişi idim. Can sıkıcıydı...
 
-Bu süre zarfında Köfteci Yusuf A.Ş. şirketinde 6 ay kadar çalıştım. Ardından kendi projelerime odaklandım. Şu an ise artık askerliğe odaklanmış bir şekilde, tabiri caizse "bitse de hayata atılsak" modunda askerliği bekliyorum. Aslında, yaklaşış 2 aydır beklediğimi söyleyebilirim.
+Bu süre zarfında Köfteci Yusuf A.Ş. şirketinde 6 ay kadar çalıştım. Ardından kendi projelerime odaklandım. Şu an ise artık askerliğe odaklanmış bir şekilde, tabiri caizse "bitse de hayata atılsak" modunda askerliği bekliyorum. Aslında, yaklaşık 2 aydır beklediğimi söyleyebilirim.
 
 21 gün boyunca Hatay / İskenderun'da "tatil" yapacağım. Döndüğümde her şeyin daha iyi olacağını hissediyorum.
 
