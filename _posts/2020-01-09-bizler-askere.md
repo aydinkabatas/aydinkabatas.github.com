@@ -29,6 +29,4 @@ Bu süre zarfında Köfteci Yusuf A.Ş. şirketinde 6 ay kadar çalıştım. Ard
 
 21 gün boyunca Hatay / İskenderun'da "tatil" yapacağım. Döndüğümde her şeyin daha iyi olacağını hissediyorum.
 
-Bu da yazıya son şarkısı olsun.
-
-[![Denize Doğru](http://img.youtube.com/vi/mLDrFmtKp3Y/0.jpg)](https://www.youtube.com/watch?v=mLDrFmtKp3Y)
+[Bu da yazıya son şarkısı olsun.](https://www.youtube.com/watch?v=mLDrFmtKp3Y)
