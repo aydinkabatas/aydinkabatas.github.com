@@ -11,7 +11,7 @@ Tarih 2 Kasım 2018. Soğuk bir kış akşamı, rüzgar tüm şiddeti ile kulakl
 
 Sesindeki ciddiyet ve netlik, kartal gibi bakışlarıyla birleşerek... Bir saniye, ben ne anlatıyorum yahu?
 
-```console
+```python
 aydin@kabatas ~$ composition switch (story-mode to normal-mode) target true
 > rebooting system... 100%
 > clear cache... 100%
