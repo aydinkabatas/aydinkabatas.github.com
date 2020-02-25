@@ -11,7 +11,7 @@ Tarih 2 Kasım 2018. Soğuk bir kış akşamı, rüzgar tüm şiddeti ile kulakl
 
 Sesindeki ciddiyet ve netlik, kartal gibi bakışlarıyla birleşerek... Bir saniye, ben ne anlatıyorum yahu?
 
-```ruby
+```bash
 aydin@kabatas ~$ composition switch (story-mode to normal-mode) target true
 > rebooting system... 100%
 > clear cache... 100%
@@ -19,9 +19,9 @@ aydin@kabatas ~$ composition switch (story-mode to normal-mode) target true
 > say "wtf is going on!?"... 1000%
 ```
 
-[Küçük bir mümin latifesinin](https://galeri13.uludagsozluk.com/707/mumin-latifesi_1075094_m.png) ardından konuya devam edecek olursam, biz o gün bedelli askerliğe başvurma kararı aldık. Valla hiç "bedelli yapmayalım, gerek yok, paramız cebimizde kalsın vsvs..." diye zorlamadım, çünkü askerlik zaten kafamda büyüyen bir husustu. 21 gün yapıp rahat etmek bana en mantıklısı olarak geliyordu. O yüzden fazla nazlanmadım. Ertesi sabah, erkenden askerlik şubesine gidip *(ki son günüydü)* gerekli talimatları aldıktan sonra 15 bin TL'yi banka hesabına yatırdık ve sevk yerini beklemeye başladık.
+[Küçük bir mümin latifesinin](https://galeri13.uludagsozluk.com/707/mumin-latifesi_1075094_m.png) ardından konuya devam edecek olursam, biz o gün bedelli askerliğe başvurma kararı aldık *(evet, ailecek kararı aldık)*. Valla hiç "bedelli yapmayalım, gerek yok, paramız cebimizde kalsın vsvs..." diye zorlamadım, çünkü askerlik zaten kafamda büyüyen bir husustu. 21 gün yapıp rahat etmek bana en mantıklısı olarak geliyordu, o yüzden fazla nazlanmadım. Ertesi sabah, erkenden askerlik şubesine gidip *(ki son günüydü)* gerekli talimatları aldıktan sonra 15 bin TL'yi banka hesabına yatırdık ve sevk yerini beklemeye başladık.
 
-Yaklaşık 1,5 ay sonra sevk yerleri ve tarihleri tarafımıza ulaştı. Ulaştı ulaşmasına, fakat sevk tarihi olarak "18.01.2020" tarihi gözüküyordu. "Yok artık, ebesinin hörekesi" dedik, ama yapacak bir şey yoktu. Bizler çoktaan 15 bin TL'yi yatırmış, bu saçma tarihte askere "gitmek" zorunda bırakılmıştık...
+Yaklaşık 1,5 ay sonra sevk yerleri ve tarihleri tarafımıza ulaştı. Ulaştı ulaşmasına, fakat sevk tarihi olarak "18.01.2020" tarihi gözüküyordu. "Yok artık, ebesinin hörekesi" dedik, ama yapacak bir şey yoktu. Bizler çoktaan 15 bin TL'yi yatırmış, bu saçma tarihte askere gitmek "zorunda" bırakılmıştık...
 
 Etrafımızdaki bedelliye başvuran bütün tanıdığımız arkadaşlar / akrabalar / akbabalar vs... askerliklerini yapmış, aralarında bir tek ben kalmıştım. Resmen en son bedelli askerliği yapan kişi idim. Can sıkıcıydı...
 
