@@ -25,7 +25,7 @@
     {% endif %}
   </div>
 
-  <div class="author__urls-wrapper" style="visible:hidden">
+  <div class="author__urls-wrapper" style="visibility:hidden;">
     <button class="btn btn--inverse">{{ site.data.ui-text[site.locale].follow_label | remove: ":" | default: "Follow" }}</button>
     <ul class="author__urls social-icons">
       {% if author.location %}
