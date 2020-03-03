@@ -65,10 +65,12 @@
    ========================================================================== */
 
 .author__avatar {
-  display: table-cell;
-  vertical-align: top;
-  width: 36px;
-  height: 36px;
+  display: block;
+  width: 150px;
+  height: 150px;
+  margin: 0 auto;
+  margin-bottom:2em;
+
 
   @include breakpoint($large) {
     display: block;
@@ -90,7 +92,6 @@
 .author__content {
   display: table-cell;
   vertical-align: top;
-  padding-left: 15px;
   padding-right: 25px;
   line-height: 1;
   margin-top:1em;
