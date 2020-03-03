@@ -5,7 +5,9 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
-theme                    : "minimal-mistakes"
+
+
+theme                    : "minimal" # Tema adını GithubPages'deki temalardan birinin adı ile değiştirmek zorunda olduğumdan değiştirilmiştir. 
 minimal_mistakes_skin    : "default" #"default",  "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
@@ -33,7 +35,7 @@ comments:
     colorscheme          : "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
-  branch                 : "gh-pages"
+  branch                 : "master"
   commitMessage          : "Yeni yorum."
   filename               : comment-{@timestamp}
   format                 : "yml"
