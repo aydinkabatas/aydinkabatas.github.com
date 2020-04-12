@@ -13,7 +13,6 @@ Bu sayfada benim okuduğum ve okumaktan keyif almış olduğum kitapları göreb
 | 2.                     | Bir Ömür Nasıl Yaşanır? : Hayatta Doğru Seçimler İçin Öneriler | Prof. Dr. İlber Ortaylı |  |
 | 3.                     | Süper Hesap Uzmanları : Sayılarla Düşünmek Neden Zeki Olmanın Yeni Bir Yoludur? | Prof. Ian Ayres | Hüseyin Doğan |
 | 4.                     | Doğal Yaşam ve Başkaldırı : Sivil İtaatsizlik Makalesi ve Walden Gölü | Henry David Thoreau | Seda Çiftçi |
-
 | 5.                     | Midos Kartalının Gözleri | Gülten Dayıoğlu |  |
 | 6.                     | Olasılıksız | Adam Fawer | Şirin Yener |
 | 7.                     | 1984 | George Orwell | Celal Üster |
