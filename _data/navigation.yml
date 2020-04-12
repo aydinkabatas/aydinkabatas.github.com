@@ -2,10 +2,10 @@
 main:
    - title: "Anasayfa"
      url: 
-   - title: "Hakkında"
-     url: /hakkinda/
    - title: "Kitap Tavsiyeleri"
      url: /kitaptavsiyeleri/
+   - title: "Hakkında"
+     url: /hakkinda/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
