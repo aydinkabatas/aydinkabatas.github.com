@@ -21,12 +21,12 @@
 .page {
   
   margin-top:2em;
+  text-align:justify; /* Because this is more good for me :-) */
 
   @include breakpoint($large) {
     @include span(10 of 12 last);
     @include prefix(0.2 of 12);
     @include suffix(0.5 of 12);
-    text-align:justify; /* Because this is more good for me :-) */
     margin-top:0em;
   }
 

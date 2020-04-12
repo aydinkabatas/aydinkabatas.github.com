@@ -35,6 +35,6 @@ Mümkün mertebe ev-iş arasında mekik dokuyor, dışarıya kesinlikle zorunlu 
 
 Her postun sonunda ya kısa bir özet, ya özlü bir söz veya bir "yazıya son şarkısı" bırakmaya gayret ediyorum. Fakat bunları gerçekten içimden geldiği için yapıyorum. Ve bilin bakalım, bugün ne oldu? 
 
-#### İÇİMDEN HİÇBİR ŞEY YAPMAK GELMİYOR!
+**İÇİMDEN HİÇBİR ŞEY YAPMAK GELMİYOR!**
 
 Bu sebeple, kendinize iyi bakın, hoşça kalın, sağlıcakla kalın.
