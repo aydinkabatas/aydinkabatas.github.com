@@ -4,6 +4,12 @@ main:
      url: 
    - title: "Kitap Tavsiyeleri"
      url: /kitaptavsiyeleri/
+   - title: "Müzik Tavsiyeleri"
+     url: /muziktavsiyeleri/
+   - title: "Film Tavsiyeleri"
+     url: /filmtavsiyeleri/
+   - title: "Dizi Tavsiyeleri"
+     url: /dizitavsiyeleri/
    - title: "Hakkında"
      url: /hakkinda/
   # - title: "Sample Collections"
