@@ -8,6 +8,7 @@ author_profile: true
 Bu sayfada benim dinlediğim ve dinlemekten keyif almış olduğum şarkıları-müzikleri görebilirsiniz. Bazılarının anısı var, halen dinlediğimde zihnimde düşünceler oluşur. Her neyse, iyi dinlemeler. 
 
 (**Not 1:** Her biri için YouTube ya da Spotify linki paylaşamayacağım, bir zahmet sizler dinlemek istediğiniz platforma girip arama kısmından şarkıları aratıp dinleyiniz. *-Ya da zahmet etmeyin, bu sayfa sadece bir database olarak kalsın.-*)
+
 (**Not 2:** Eksik çok fazla müzik var. Zamanla ve aklıma geldikçe bir şeyler ekleyeceğim. Şimdilik bunlar burada kalsın.)
 
 
