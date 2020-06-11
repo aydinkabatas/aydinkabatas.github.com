@@ -25,6 +25,8 @@ Thoreau'ya göre insan doyumsuzdur. Doyumsuzluğu sebebi ile mutluluğu hiçbir 
 
  Ürün ekip biçerek, avlanarak, odun istifleyerek, gölün imkanlarını kullanarak hayatını idame ettirmiştir. Kapital sistemin gerekliliklerini yapmak zorunda olmadığımızı, minimalist hayatı seçerek bu çarktan kurtulabileceğimizi bizlere göstermiştir.
 
+---
+
  ### Son olarak
 
  Kitabı okurken bir anlığına "benim 1800'lü yıllardaki halim bu adam" diye düşünmeye başlıyorum. Minimalizm, natüralizm, pragmatizm benim aşina olduğum terimler. Fakat o zamanın kapitalist sistem çarkı ile bugünün sistem çarkı maalesef aynı işlemiyor. O zamanki durumda kapitalist sistemden çıktığınızda büyük bir konfor kaybı yaşamıyordunuz. Bugün, cep telefonu kullanmayı reddetmek bile büyük bir durum, çünkü insanların iletişiminin büyük kısmını cep telefonlarımız oluşturmakta. Bir insanın yakınına gitmek yerine uzaktan her şeyi söylemek istiyoruz, çünkü üşeniyoruz. Bu üşengeçlik, aynı pratikliğe sahip olmayan insanları bizden uzaklaştırıyor. Fakat yine de sistemin "küçük bir çarklısı" olarak hayata devam edebilmeyi ümit ediyorum.
