@@ -8,7 +8,7 @@
 
 
 theme                    : "minimal" # Tema adını GithubPages'deki temalardan birinin adı ile değiştirmek zorunda olduğumdan değiştirilmiştir. 
-minimal_mistakes_skin    : "default" #"default",  "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dark" #"default",  "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "tr"
@@ -16,8 +16,8 @@ title                    : "Kişisel Bir Blog"
 title_separator          : "-"
 name                     : "Aydın Kabataş"
 description              : "Aydın Kabataş'ın nevi şahsına münhasır blog sitesidir."
-url                      : #"https://aydinkabatas.github.io"
-baseurl                  : #"aydinkabatas.github.io"
+url                      : "https://aydinkabatas.github.io"
+baseurl                  : "aydinkabatas.github.io"
 repository               : "aydinkabatas/aydinkabatas.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
@@ -53,7 +53,7 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 
 # SEO Related
-google_site_verification : wSqIREEfN2o02Bb2YoBOIYo2Xk9Mn66WmHIG292qcvA
+google_site_verification : "wSqIREEfN2o02Bb2YoBOIYo2Xk9Mn66WmHIG292qcvA"
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
@@ -77,7 +77,7 @@ social:
 analytics:
   provider               : "google" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          : G-TPXMZR292Y
+    tracking_id          : "G-TPXMZR292Y"
 
 
 # Site Author
