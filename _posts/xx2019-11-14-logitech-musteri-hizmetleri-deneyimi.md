@@ -1,8 +1,8 @@
 ﻿---
-# layout: single
-# name: logitech-musteri-hizmetleri-deneyimi
-# title: "Logitech Müşteri Hizmetleri Deneyimi"
-# category: articles
+layout: single
+name: logitech-musteri-hizmetleri-deneyimi
+title: "Logitech Müşteri Hizmetleri Deneyimi"
+category: articles
 ---
 
 Bir süre önce kısa bir tatile çıktım. Tatilden döndüğümde bilgisayarımın faresinin çalışmadığını fark ettim. Pillerini çıkartıp değiştirdim, bir süre sorunun nereden kaynaklandığını araştırdım ve en son Logitech resmi sitesinden **"Logitech Options"** isimli bir program indirdim. Program ile fareye bağlanmaya çalıştığımda **"Unknown Receiver"** hatası aldım. Daha sonra bilgisayarımın usb portlarına baktığımda usb vericisinin bağlı olmadığını fark ettim. Yarım saat, olmayan bir verici yüzünden uğraşmıştım. Daha sonra usb verisicine ne olduğunu düşündüm. Muhtemelen tatil için gittiğim yerde kalmış olmalıydı.

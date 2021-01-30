@@ -1,8 +1,8 @@
 ﻿---
-# layout: single
-# name: bir-is-basvurusu-nasil-yapilmaz
-# title: "Bir İş Başvurusu Nasıl Yapılmaz?"
-# category: articles
+layout: single
+name: bir-is-basvurusu-nasil-yapilmaz
+title: "Bir İş Başvurusu Nasıl Yapılmaz?"
+category: articles
 ---
 
 Konya'da yaşadığım süreç boyunca çok fazla iş başvurusu yapmış ve bir o kadar da olumsuz geri dönüş almış birisi olarak bu rehberi yazmaya karar verdim. Bu rehberdeki yazdığım şeylerin tam tersini yaparsanız kesinlikle iş başvurusundan olumlu geri dönüş alacağınızdan eminim.

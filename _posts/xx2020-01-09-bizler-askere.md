@@ -1,8 +1,8 @@
 ﻿---
-# layout: single
-# name: bizler-askere
-# title: "Bizler Askere!"
-# category: articles
+layout: single
+name: bizler-askere
+title: "Bizler Askere!"
+category: articles
 ---
 
 Tarih 2 Kasım 2018. Soğuk bir kış akşamı, rüzgar tüm şiddeti ile kulakları uğuldatırken ben de iş arayışlarıma devam ediyordum. İnternet üzerinden belki de 28. başvurumu yapmış, bir tanesinden bile mülakat randevusu almadan yılı kapatacağımı düşünüyordum. Benim için sıkıntı yoktu. O zaman için, freelance bir iş almış, iyi kötü kendi harçlığımı çıkarır bir şekilde sakince iş ilanlarını değerlendiriyordum. Akşam yemeğini yedikten sonra babam birden cebinden bir kredi dekontu ile bana yöneldi.

@@ -1,8 +1,8 @@
 ﻿---
-#layout: single
-#name: covid19-uzerine
-#title: "COVID19 Üzerine"
-#category: articles
+layout: single
+name: covid19-uzerine
+title: "COVID19 Üzerine"
+category: articles
 ---
 
 Bu yazıyı yazdığım tarih itibari ile ilk [sokağa çıkma yasağımıza](https://www.icisleri.gov.tr/2-gun-sokaga-cikma-yasagi){:target="_blank"} başlamış bulunmaktayız. 2 gün sürecek bu kısa ama önemli tedbir, hatalı bir şekilde alındığı için halkın yaptığı panik sebebi ile daha çok felakete davetiye çıkartmış bulunmakta. Bunların acısı maalesef 2 hafta sonra çıkacaktır. Bu yazımda uzun uzadıya *"ilk vaka tarihi, ilk 100 hastaya ulaşma süresi, istatistikler vs..."* sunmayı düşünmüyorum. Çünkü bu bilgileri merak edenler, [Hz. Google'a](https://lmgtfy.com/?q=t%C3%BCrkiyedeki+ilk+vaka+tarihi){:target="_blank"} yazarak kolaylıkla bulunabilir. Buraya daha çok **"Peki ya sonrası?"** tadında düşüncelerimi bırakmak istiyorum. Çünkü benim hayat felsefem olan söz gereği asıl merak ettiğim ve üzerine kafa yorduğum husus bu.
