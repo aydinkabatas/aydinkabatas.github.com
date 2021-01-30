@@ -1,8 +1,8 @@
 ﻿---
-layout: single
-name: hearthstone-nerf-10.8
-title: "Hearthstone 10.2 Güncellemesi ve Nerfler Hk."
-category: "hearthstone"
+# layout: single
+# name: hearthstone-nerf-10.8
+# title: "Hearthstone 10.2 Güncellemesi ve Nerfler Hk."
+# category: "hearthstone"
 ---
 
 **Gizli Markov Süreçleri** üzerine blog yazısı yayınlamam gerekirken yazdığım yazıya bakın sayın seyirciler... Gizli Markov Süreçleri yazısı benim seminer konum olduğundan çoğunlukla kopyala-yapıştır üzerinden bloga aktaracağım. Ama sanki daha büyük bir aksiyon varmış gibi şuan bu blog yazısını yazmaya koyuldum. Neden? Çünkü en sevdiğim oyuna güncelleme geliyor ve bazı kartlar nerf yiyor! Normalde bu tip güncellemelere ilişkin yazı yazmam hatta pek de önemsemem. Ama bu seferki cidden büyük. Çünkü **dünya şampiyonası** sırasında bütün oyuncuların meta decklerde oynadıkları kilit kartlar nerf yedi. Bu güncelleme oyunda ciddi manada meta değişimine sebep olacak gibi gözüküyor.

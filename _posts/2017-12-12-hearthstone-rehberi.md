@@ -1,8 +1,8 @@
 ﻿---
-layout: single
-name: hearthstone-rehberi-bolum-bir
-title: "Hearthstone Rehberi - Bölüm 01 - İlk Bakış"
-category: "hearthstone"
+# layout: single
+# name: hearthstone-rehberi-bolum-bir
+# title: "Hearthstone Rehberi - Bölüm 01 - İlk Bakış"
+# category: "hearthstone"
 ---
 
 Uzun zamandır böyle bir rehber yapmayı düşünüyordum. Aslında nereden başlayacağımı bilmiyorum, eğer lönk diye konuya atılırsam kusura bakmayın. Bu rehberi yapmamın sebebi tamamiyle bu oyunu gerçekten çok sevmemden ve Türkiye'den daha fazla oynayan kişi görme isteğimden kaynaklanıyor.

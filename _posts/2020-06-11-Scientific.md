@@ -20,5 +20,3 @@ Hatıralarımdan en değer verdiklerimi *(yani akademik hayatımın yazılı kay
 Akademik hayatım bitmiş olsa bile, akademik hayatına devam etmek isteyenlere yardımcı olmaya gayret edeceğim.
 
 [İlgili GitHub deposuna buradan ulaşabilirsiniz.](https://github.com/aydinkabatas/Academic-Shares){:target="_blank"}
-
-Halet-i Ruhiye Şarkısı : [Kir - Uğur Ersöz](https://www.youtube.com/watch?v=VC878uI08zE){:target="_blank"}

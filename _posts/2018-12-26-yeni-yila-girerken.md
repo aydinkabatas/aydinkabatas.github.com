@@ -1,8 +1,8 @@
 ﻿---
-layout: single
-name: yeni-yila-girerken
-title: "Yeni Yıla Girerken"
-category: articles
+# layout: single
+# name: yeni-yila-girerken
+# title: "Yeni Yıla Girerken"
+# category: articles
 ---
 
 "Yeni umutların filizlendiği bir yıla merhaba demeden önce benim de söyleyeceklerim var!" dedi uzun boylu, kilo almış, sıkıntıdan yüzündeki sivilcesi artmış blog sahibi. Yavaşça kahvesini yudumladı. "Nasıl tall boy uzun çekim espresso doppio üzerine su konulunca americano oluyor diye fazladan fiyat alınıyor!" diye sitem etti kendince. Ve başladı bu satırları yazmaya...

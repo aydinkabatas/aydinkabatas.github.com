@@ -1,8 +1,8 @@
 ﻿---
-layout: single
-name: issiz-gencler
-title: "İşsiz Gençler"
-category: articles
+# layout: single
+# name: issiz-gencler
+# title: "İşsiz Gençler"
+# category: articles
 ---
 
 **Başlangıç Notu:** İşbu tespit, gençliğe ve kendime not olarak bu postta yerini alsın.

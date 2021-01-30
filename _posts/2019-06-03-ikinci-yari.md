@@ -1,8 +1,8 @@
 ﻿---
-layout: single
-name: ikinci-yari
-title: "İkinci Yarı!"
-category: articles
+# layout: single
+# name: ikinci-yari
+# title: "İkinci Yarı!"
+# category: articles
 ---
 
 En son 6 ay önce yeni yıla dair **"umutsuzluklarımı"** [klavyeye almıştım](https://aydinkabatas.github.io/articles/yeni-yila-girerken) *(internet için blog postu yazınca da "kaleme almak" yerine "klavyeye almak" gibi dandik terimler ürüyor malesef)*. Malesef düşüncelerimde yanılmadım. Her geçen gün, biraz daha "adaletsiz" bir ülke olmaya doğru yol aldığımız için ekonomik sıkıntılar ve halkın umutsuzluğu devam etmekte.

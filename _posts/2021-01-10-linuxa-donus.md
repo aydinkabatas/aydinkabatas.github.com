@@ -33,4 +33,4 @@ Böylece tam olarak sistemim hazır oldu. Zorunlu olmadıkça her şeyi Linux ü
 
 ---
 
-Son zamanlarda stabilizasyon problemleri de çözülmüş olan bu işletim sistemini herkese tavsiye ederim.
+Son zamanlarda stabilizasyon problemleri de çözülmüş olan bu işletim sistemini **KULLANMAYI BİLEN** herkese tavsiye ederim.

@@ -1,8 +1,8 @@
 ﻿---
-layout: single
-name: zor-gunler
-title: "Zor Günler"
-category: articles
+# layout: single
+# name: zor-gunler
+# title: "Zor Günler"
+# category: articles
 ---
 
 Aslında herşey "Big Bang" adı verilen bir fenomen ile başladı. Maddeler ve anti maddeler savaşından maddeler galip geldi ve atomları oluşturdu. 
