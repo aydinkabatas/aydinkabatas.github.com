@@ -75,7 +75,7 @@ social:
 
 # Analytics
 analytics:
-  provider               : "google-gtag" # false (default), "google", "google-universal", "custom"
+  provider               : "google-universal" # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          : "G-TPXMZR292Y"
 
@@ -96,7 +96,7 @@ author:
   github           : "aydinkabatas"
   google_plus      :
   keybase          :
-  instagram        : "aydin.kabatas"
+  instagram        : #"aydin.kabatas"
   lastfm           :
   linkedin         : "ayd%C4%B1n-kabata%C5%9F-669557146/"
   pinterest        :
