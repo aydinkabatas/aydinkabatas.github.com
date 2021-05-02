@@ -7,7 +7,7 @@
 
 
 
-theme                    : "minimal" # Tema adını GithubPages'deki temalardan birinin adı ile değiştirmek zorunda olduğumdan değiştirilmiştir. 
+theme                    : "minimalmistakes"
 minimal_mistakes_skin    : "dark" #"default",  "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
@@ -21,11 +21,11 @@ description              : "Aydın Kabataş'ın nevi şahsına münhasır blog s
 repository               : "aydinkabatas/aydinkabatas.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
-words_per_minute         : 200
+words_per_minute         : 150
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
-    shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+    shortname            : aydinkabatasblog # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -83,7 +83,7 @@ analytics:
 author:
   name             : "Aydın Kabataş"
   avatar           : "/assets/images/bio-photo.png"
-  bio              : "1992 doğumlu, kahve bağımlısı, yükseklisans seviyesinde istatistikçi, azıcık programcı, Blizzard oyunları hastası. #staybored #stayhome"
+  bio              : "1992 doğumlu, kahve bağımlısı, yükseklisans terk istatistikçi, azıcık programcı, Blizzard oyunları hastası. #staybored #stayhome"
   location         : "Bursa"
   email            : "aydin.kabatas@hotmail.com"
   uri              :
@@ -108,7 +108,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          : "https://www.youtube.com/c/aydinkabatas"
+  youtube          : #"https://www.youtube.com/c/aydinkabatas"
 
 
 # Reading Files
@@ -259,6 +259,7 @@ defaults:
       read_time: true
       share: true
       related: true
+      comments: true
   # _pages
   - scope:
       path: "_pages"
