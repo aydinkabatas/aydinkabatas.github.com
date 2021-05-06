@@ -17,7 +17,7 @@ q = Negatif Deneyim Yaşayan Müşteri Sayısı
 olmak üzere;
 
 $$
-{x}_{0}
+\frac{\ p - q}{\ p+n+q}
 $$
 
 olarak formülize edilir. 
