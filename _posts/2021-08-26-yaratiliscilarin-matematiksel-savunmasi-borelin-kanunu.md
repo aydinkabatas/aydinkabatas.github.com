@@ -9,7 +9,7 @@ Yoğun iş temposunun arasında vakit buldukça kendimi geliştirmeye çalışı
 
 Bu teoremi araştırmamın nedeni, iş yerindeki arkadaşlarla aramda çıkan **"Evrim"** tartışmasında bana anti-tez olarak sunulmasından dolayıdır. İş arkadaşım bana **"10<sup>-50</sup>'den küçük olasılıkların gerçekleşmesi imkansız, bu da zaten Evrim Teorisini direkt çürütüyor."** demişti. Ben de **"Bu rakamı kim, nasıl neye göre verebiliyor? Böyle bir istatistik verebilmek imkansız."** demiştim. Daha sonra "[Rationalwiki](https://rationalwiki.org/wiki/Borel%27s_Law)"  adında bir adresin linkini atıp **"işte kanıt"** demişti. Ama sorun şu ki; kanıtı da onu yalanlıyordu. Yani kanıt diye gönderdiği şey, Borel'in Kanunu'nun saptırıldığını söyleyen bir kanıttı. *(Tabi o arkadaş **"Böyle bir şey var, sen yok diyordun, sen haksızsın"** diyerek arkasını döndü. Halbuki yine de yoktu ama zaten o arkadaşa bilim metodolojisinde bir şeyler anlatmak imkansızdı. Daha fazla uzatmamayı tercih ettim.)*
 
-## ÖZETLE
+### ÖZETLE
 
 Her ne kadar Émile Borel'in ortaya çıkarttığı bir **"kanun"** olarak düşünülse de aslında <ins>**Karl Crawford (nam-ı diğer ksjj)**</ins> tarafından, Borel'in bir kitabında geçen bir örneği <ins>**hatalı**</ins> yorumlayarak kanun ilan etmesiyle bu ismi almıştır.
 
@@ -17,7 +17,7 @@ Her ne kadar Émile Borel'in ortaya çıkarttığı bir **"kanun"** olarak düş
 
 Sonra da bu "<ins>**ZIRVA**</ins>" özellikle yaratılışçıların arasında "**Evrimi Çürüten Kanıt**" olarak yerini almıştır.
 
-## BOREL KİMDİR?
+### BOREL KİMDİR?
 
 Tabi problemin kaynağını anlayabilmek için Borel'i tanımak, onun ne anlatmaya çalıştığını anlamak gerekiyor.
 
@@ -31,7 +31,7 @@ Tam ismi **Félix Édouard Justin Émile Borel**,  fransız matematikçi ve poli
 
 Yani **Matematik ve İstatistik** bilimlerine gerçekten çok emeği geçmiş, enstitüler kurmuş, adına teoriler ithaf edilmiş bir dahi. Borel'i daha da merak edenler [Vikipedi][ref1]'den araştırabilir.
 
-## NEREDEN ÇIKTI BU KANUN?
+### NEREDEN ÇIKTI BU KANUN?
 
 **Sözde Borel'in Kanunu**na ait ilk temeller yine Émile Borel tarafından, "<ins>**bilim insanları için yazılmamış kitaplarında**</ins>", "**verdiği bir örnek içerisinde**" geçer. Borel kitabında, bilim insanlarının belirli bir olasılık altındaki olayları ihmal edebileceğine ilişkin mantıksal örnekler vermiştir. Bu kitaplar 1962 yılında yazılmış olan *"Olasılık ve Yaşam"* ve 1963 yılında yazılmış olan *"Olasılık ve Kesinlik"* isimli kitaplarıdır. 
 
