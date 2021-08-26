@@ -61,6 +61,7 @@ P(x<sub>10</sub>)="Bir saatinin olması ihtimali"
 P(x<sub>11</sub>)="Saatin hediye olması ihtimali"
 ...
 şeklinde uzun bir liste yapabiliriz. Sonrasında bu olasılıkları çarparak, ilgili senaryonun gerçekleşme ihtimalini buluruz.
+
 $$
  P(x_1)\times P(x_2) \times P(x_3)\times P(x_4)\times P(x_5)\times P(x_6)\times P(x_7)\times P(x_8)\times ...
 $$
