@@ -1,7 +1,7 @@
 ﻿---
 layout: single
 name: yaratiliscilarin-matematiksel-savunmasi-borelin-kanunu
-title: "YARATILIŞÇILARIN MATEMATİKSEL SAVUNMASI: BOREL'İN KANUNU"
+title: "Yaratılışçıların Matematiksel Savunması: BOREL'İN KANUNU"
 category: articles
 ---
 
