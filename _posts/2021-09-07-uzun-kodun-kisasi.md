@@ -160,7 +160,8 @@ Burada, (*az önceki farazi örneğe dayalı olarak*) 20 milyon satırlık *orde
 
 Bu bölüme geçmeden önce bir efsaneyi yâd etmek istiyorum.
 
-> But anyway, now is in the **TABELE**, we have to see the situation, now is second position, and ... 
+> But anyway, now is in the **TABELE**, we have to see the situation, now is second position, and ...
+> 
 > <cite>Fatih Terim (Türkiye - Yunanistan Maçı basın açıklaması | 17.10.2007)</cite>
 
 Bu yöntem özellikle **linked server** üzerinden veri almaya çalışıldığında çok verimli olabilmektedir. STANDART ÖRNEK'teki tablo yapısına başka bir veri tabanı üzerinde bulunan ve linked server aracılığı ile eriştiğimiz **crm** tablosunu *customerID* üzerinden bağlayalım.
