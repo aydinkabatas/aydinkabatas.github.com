@@ -59,13 +59,15 @@ layout: default
       </footer>
 
       {% if page.share %}{% include social-share.html %}{% endif %}
-
+<!--
       {% if site.comments.provider and page.comments %}
         {% include comments.html %}
       {% endif %}
 
-      {% comment %}<!-- only show related on a post page when `related: true` -->{% endcomment %}
-
+      {% comment %}
+only show related on a post page when `related: true`
+      {% endcomment %}
+-->
       {% include post_pagination.html %}
     </div>
   </article>
