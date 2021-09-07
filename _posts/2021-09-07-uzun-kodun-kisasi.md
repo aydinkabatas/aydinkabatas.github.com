@@ -251,7 +251,6 @@ Gelen barkodları "**IN**" komutu ile kombine edebilmek için;
 
 ```c
  = ",'"&barkodHücresi&"'"
- 
 ```
 
 Excel formülünü sıklıkla kullanmaktayım.
