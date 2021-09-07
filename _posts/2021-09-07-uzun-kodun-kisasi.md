@@ -249,7 +249,7 @@ Kitap sektöründe barkod listeleri üzerinden çalışmalar yapılmaktadır. Bu
 
 Gelen barkodları "**IN**" komutu ile kombine edebilmek için;
 
-```visual-basic
+```c
  = ",'"&barkodHücresi&"'"
  
 ```
