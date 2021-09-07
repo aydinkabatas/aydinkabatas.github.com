@@ -249,8 +249,9 @@ Kitap sektöründe barkod listeleri üzerinden çalışmalar yapılmaktadır. Bu
 
 Gelen barkodları "**IN**" komutu ile kombine edebilmek için;
 
-```excel
+```visual-basic
  = ",'"&barkodHücresi&"'"
+ 
 ```
 
 Excel formülünü sıklıkla kullanmaktayım.
