@@ -1,5 +1,4 @@
-
----
+﻿---
 layout: single
 name: rfm-analizi-ile-musteri-segmenti
 title: "RFM Analizi ile Müşteri Segmenti"
@@ -141,14 +140,14 @@ Tabloda gözüktüğü üzere a1-a2-a4 müşterileri <u>basit hesaplamayla</u> e
 
 Aşağıdaki tabloda 4'lük sistemde R-F-M için hangi yorumların yapılması gerektiği gösterilmiştir ([Alıntıdır](https://productphilosophy.com/rfm-analizi-nedir-ve-nasil-yapilir/)).
 
-| Segment | R-F-M | Açıklama | Örnek Pazarlama Modeli | 
+| Segment | RFM | Açıklama | Örnek Pazarlama Modeli | 
 |---|---|---|---|
-| En İyi Müşteriler | 4-4-4 | Yakın zamanda satın alım yapmış, sıkça yüksek tutarda alışveriş gerçekleştirenler. | Yeni ürünler ve sadakat programlarıyla ilgili çalışmaların ana hedefi olabilirler. |
-| Sadık Müşteriler | X-4-X | En çok satın alım gerçekleştirenler. | Yeni ürünler ve sadakat programlarıyla ilgili çalışmaların hedef kitlelerinden olabilirler, onları kendi aralarında alt segmentlere bölmek yararlıdır. |
-| Büyük Harcama Yapanlar | X-X-4 | Alışveriş tutarı en yüksek müşteriler. | En pahalı ürünlerinizi pazarlayabilirsiniz, onlar büyük oynamayı seviyorlar. |
-| Neredeyse Kayıp Müşteriler | 2-4-4 | Yakın zamanda alışveriş yapmamış fakat eskiden sıkça alışveriş gerçekleştirmiş olanlar. | Agresif indirim teklifleri ile onları geri ikna edebilirsiniz. |
-| Kayıp Müşteriler | 1-4-4 | Uzun süredir alışveriş yapmamış fakat eskiden sıkça alışveriş gerçekleştirmiş olanlar. | İndirim teklifleri ile onları geri ikna edebilirsiniz. |
-| Kaçan Müşteriler | 1-1-1 | Uzun süredir alışveriş yapmamış fakat eskiden de çok aktif olmayanlar. | Müşteriyi yeniden kazanmak önemli, fakat bunun için önemli bir bütçe harcamaya gerek yok. |
+| En İyi Müşteriler | 444 | Yakın zamanda satın alım yapmış, sıkça yüksek tutarda alışveriş gerçekleştirenler. | Yeni ürünler ve sadakat programlarıyla ilgili çalışmaların ana hedefi olabilirler. |
+| Sadık Müşteriler | X4X | En çok satın alım gerçekleştirenler. | Yeni ürünler ve sadakat programlarıyla ilgili çalışmaların hedef kitlelerinden olabilirler, onları kendi aralarında alt segmentlere bölmek yararlıdır. |
+| Büyük Harcama Yapanlar | XX4 | Alışveriş tutarı en yüksek müşteriler. | En pahalı ürünlerinizi pazarlayabilirsiniz, onlar büyük oynamayı seviyorlar. |
+| Neredeyse Kayıp Müşteriler | 244 | Yakın zamanda alışveriş yapmamış fakat eskiden sıkça alışveriş gerçekleştirmiş olanlar. | Agresif indirim teklifleri ile onları geri ikna edebilirsiniz. |
+| Kayıp Müşteriler | 144 | Uzun süredir alışveriş yapmamış fakat eskiden sıkça alışveriş gerçekleştirmiş olanlar. | İndirim teklifleri ile onları geri ikna edebilirsiniz. |
+| Kaçan Müşteriler | 111 | Uzun süredir alışveriş yapmamış fakat eskiden de çok aktif olmayanlar. | Müşteriyi yeniden kazanmak önemli, fakat bunun için önemli bir bütçe harcamaya gerek yok. |
 
 Bu segmentler RFM'de pazarlamacılar tarafından kabul edilen **kilit segmentler**dir. Bunların haricinde perakendedeki sektörünüze ve pozisyonunuza bağlı olarak farklı farklı segmentler oluşturulabilir. Örneğin; R=1, F=1, M=4 için **"Kayıp Balinalar"** denilebilir. Bu müşteriler uzun zamandır sizden alışveriş yapmamış, sizden sık sık alışveriş yapmamış, fakat cirosal olarak ciddi bir yatırım yapmış olanlardır. Bu müşterileri özel olarak telefon ile arayıp memnuniyetsizlik gerekçeleri öğrenilebilir, pazarlama departmanı kendi içerisinde *"bu müşterileri nasıl yeniden satışa döndürebiliriz?"* sorusunu sorabilir.
 
