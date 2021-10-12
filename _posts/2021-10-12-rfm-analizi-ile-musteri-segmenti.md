@@ -11,7 +11,7 @@ category: articles
 
 [Pareto](https://tr.wikipedia.org/wiki/Pareto_ilkesi) bizlere şunu söyler: *"Elindeki en tepe %20-%30'luk kitle, senin %70-%80'lik kazancını sağlar"*. Yani 100 müşteri sana 10.000 TL kazandırıyorsa, bunların içerisindeki en çok ciro kazandıran 20-30 müşteri, sana 7.000-8.000 TL civarında ciro kazandırmaktadır. Hayatınızdaki hemen hemen her şeyde bunu uygulayabilirsiniz. Toplam 100 kalem gideriniz varsa, en tepedeki 20 gider, sizin paranızın %80'ini harcamaktadır. Toplam 1000 ürününüz varsa, en tepedeki 200 ürün, size cironuzun %80'ini kazandırmaktadır *(80'e 20, ya da 70'e 30)*. Buna göre aslında hangi müşterilerinizin ne kadar size katkı sağladığını basit bir sıralama ile fark edebiliyorsunuz. Buraya kadar her şey tamam. Peki bu müşteriyi tutmak mı, yoksa sürekli yeni müşterilere yatırım yapmak mı daha kârlı?
 
-<img alt="Pareto" src="../assets/images/pareto.jpg" style="width:80%; margin:0 auto; display:block" />
+<img alt="Pareto" src="/assets/images/pareto.jpg" style="width:80%; margin:0 auto; display:block" />
 
 > Temel anlamda İlişkisel Pazarlama'nın temelinin **yeni müşteriler bulmaktan ziyade mevcut müşterileri tutma ve onlarla ilişkileri geliştirme** üzerine olduğu bilinmektedir. 
 > 
@@ -23,7 +23,7 @@ Elimizde 1.000.000 TL pazarlama bütçesi olduğunu varsayalım. O halde bu para
 
 İşte bu durumu optimum bir şekilde yönetmek ve yeni müşteriler kazanmak için daha fazla kaynak ayırabilmek adına bir takım analizler ile müşterinin gitmeye meyilli olup olmadığı, riskteki büyük cirolu müşterileri, potansiyel VIP müşterileri vs... gruplamamız ve güncel olarak denetlememiz gereklidir. Bu bağlamda müşteri değerini ve sadakatini analiz etmede farklı metotlar geliştirilmiştir. Bunlardan birisi de **RFM Analizi**'dir.
 
-<img alt="RFM Görseli" src="../assets/images/rfm-graph.png" style="width:80%; margin:0 auto; display:block" />
+<img alt="RFM Görseli" src="/assets/images/rfm-graph.png" style="width:80%; margin:0 auto; display:block" />
 
 RFM Analizi müşteriyi sadece parasal değerde değil, aynı zamanda sıklık ve güncellik boyutlarında da analiz eden bir yöntemdir. RFM Analizinin 3 temel boyutu vardır. Bunlar;
 
