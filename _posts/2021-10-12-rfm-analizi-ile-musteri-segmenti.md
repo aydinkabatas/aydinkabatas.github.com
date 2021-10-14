@@ -51,7 +51,7 @@ Kesme sayısını da belirledikten sonra çok üzerinde durulmayan, fakat en ön
 
 İlk olarak Recency (**R**) değeri için hesaplama yapalım. Bunun için müşterinin son sipariş yaptığı tarih ile bugünkü tarih arasındaki uzaklığa bakacağız. Bugün **'10.10.2021'** olsun ve tablomuz da aşağıdaki gibi olsun diyelim.
 
-| Customer ID | Count(OrderID) | MAX(OrderDate) | CustomerRevenue |
+| Customer ID | Count (OrderID) | MAX (OrderDate) | Customer Revenue |
 |---|---|---|---|
 | a1 | 6 | 11.01.2021 | 550 |
 | a2 | 8 | 16.03.2021 | 350 |
@@ -60,7 +60,7 @@ Kesme sayısını da belirledikten sonra çok üzerinde durulmayan, fakat en ön
 
 Bu durumda a1 müşterisi için *DATEDIFF(DAY , '11.01.2021' , '10.10.2021')* sonucu olarak 272 Gün buluruz. Bunu diğerleri için yaptığımızda aşağıdaki DATE_DIFFERENCE sütununu elde ederiz.
 
-| Customer ID | Count(OrderID) | MAX(OrderDate) | CustomerRevenue | DATE_DIFFERENCE |
+| Customer ID | Count (OrderID) | MAX (OrderDate) | Customer Revenue | DATE DIFFERENCE |
 |---|---|---|---|---|
 | a1 | 6 | 11.01.2021 | 550 | 272 |
 | a2 | 8 | 16.03.2021 | 350 | 208 |
@@ -69,7 +69,7 @@ Bu durumda a1 müşterisi için *DATEDIFF(DAY , '11.01.2021' , '10.10.2021')* so
 
 Bu tabloyu DATE_DIFFERENCE sütununa göre küçükten büyüğe sıraladığımızda;
 
-| Customer ID | Count(OrderID) | MAX(OrderDate) | CustomerRevenue | DATE_DIFFERENCE |
+| Customer ID | Count (OrderID) | MAX (OrderDate) | Customer Revenue | DATE DIFFERENCE |
 |---|---|---|---|---|
 | a3 | 1 | 08.10.2021 | 140 | 2 |
 | a4 | 3 | 06.10.2021 | 452 | 4 |
@@ -78,7 +78,7 @@ Bu tabloyu DATE_DIFFERENCE sütununa göre küçükten büyüğe sıraladığım
 
 elde ederiz. Buradaki kesme noktalarının belirlenmesi işlemini [Quartile](https://en.wikipedia.org/wiki/Quartile) ile yapacağız. Burada 4 eşit parçaya Quartile ile böldüğümüzde ve R_SCORE sütununa yazdığımızda;
 
-| Customer ID | ... | DATE_DIFFERENCE | R_SCORE
+| Customer ID | ... | DATE DIFFERENCE | R_SCORE
 |---|---|---|---|
 | a3 | ... | 2 | 4
 | a4 | ... | 4 | 3
@@ -89,7 +89,7 @@ sıralandırmasını yapabiliyoruz. Burada en büyük R_SCORE değerine sahip ol
 
 Şimdi sırada Frequency (**F**) değeri için hesaplama yapalım. Bunun için Count(OrderID) sıralaması yapmamız yeterlidir.
 
-| Customer ID | Count(OrderID) | MAX(OrderDate) | CustomerRevenue |
+| Customer ID | Count (OrderID) | MAX (OrderDate) | Customer Revenue |
 |---|---|---|---|
 | a2 | 8 | 16.03.2021 | 350 |
 | a1 | 6 | 11.01.2021 | 550 |
@@ -98,7 +98,7 @@ sıralandırmasını yapabiliyoruz. Burada en büyük R_SCORE değerine sahip ol
 
 Burada 4 eşit parçaya Quartile ile böldüğümüzde ve F_SCORE sütununa yazdığımızda;
 
-| Customer ID | ... | Count(OrderID) | F_SCORE |
+| Customer ID | ... | Count (OrderID) | F_SCORE |
 |---|---|---|---|
 | a2 | ... | 8 | 4 |
 | a1 | ... | 6 | 3 |
@@ -109,7 +109,7 @@ tablosu oluşacaktır. Burada en büyük F_SCORE değerine sahip olan müşteri,
 
 Şimdi sırada Monetary (**M**) değeri için hesaplama yapalım. Bunun için CustomerRevenue sıralaması yapmamız yeterlidir.
 
-| Customer ID | Count(OrderID) | MAX(OrderDate) | CustomerRevenue |
+| Customer ID | Count (OrderID) | MAX (OrderDate) | Customer Revenue |
 |---|---|---|---|
 | a1 | 6 | 11.01.2021 | 550 |
 | a4 | 3 | 06.10.2021 | 452 |
@@ -118,7 +118,7 @@ tablosu oluşacaktır. Burada en büyük F_SCORE değerine sahip olan müşteri,
 
 Burada 4 eşit parçaya Quartile ile böldüğümüzde ve M_SCORE sütununa yazdığımızda;
 
-| Customer ID | ... | CustomerRevenue | M_SCORE |
+| Customer ID | ... | Customer Revenue | M_SCORE |
 |---|---|---|---|
 | a1 | ... | 550 | 4 |
 | a4 | ... | 452 | 3 |
