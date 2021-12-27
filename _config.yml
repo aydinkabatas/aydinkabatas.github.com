@@ -7,7 +7,7 @@
 
 
 
-theme                    : "minimalmistakes"
+theme                    : "theme: minimal-mistakes-jekyll"
 minimal_mistakes_skin    : "dark" #"default",  "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
