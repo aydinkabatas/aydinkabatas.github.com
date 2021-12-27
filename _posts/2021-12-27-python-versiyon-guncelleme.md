@@ -9,7 +9,7 @@ Son zamanlarda sektörün beni itmesinden dolayı daha fazla haşır neşir oldu
 
 Güncelledikten sonra güncel versiyonu kullanmadığımı fark ettim. Eski versiyonları kaldırınca bu sefer Python komple çalışmamaya başladı. Sürekli "Python yolu mevcut değil" hatası ile karşılaşınca soluğu Hz. Google'da aldım. Fakat gariptir, Türkçe kaynak olarak da problemimi çözen bir kaynağa rastlayamadım. En sonunda problemimi İngilizce aramaya başladığımda yol katetmeye başladım. Aslında çok basit olan bu problemin çözümünü de çerezlik bilgi tadında burada bulundurayım istedim.
 
-## Peki neden?: Environment Variables neden, Could'nt Find Python sonuçtur.
+### Peki neden?: Environment Variables neden, Could'nt Find Python sonuçtur.
 
 Öncelikle problemin asıl kaynağı, Windows. Eğer siz, hiç Python'u kurmadan PowerShell açıp "python" yazarsanız, öncelikle Microsoft Store içerisinde böyle bir uygulama var olup olmadığına bakacak, eğer varsa Microsoft Store'u açacak, yoksa komut satırında "Böyle bir komut bulunamadı" hatası döndürecek. Programı kurduktan sonra, program içerisinde eğer **"Çevre Değişkenlerine Ekle" (Add to Environment Variables)** seçeneğini etkinleştirdiyseniz kurulum dosyası Python'un kurulduğu klasörü Windows içerisine tanımlayacak. Böylece siz PowerShell içerisinde "python" yazdığınızda karşınıza o sempatik ">>>" işareti gelecek ve Python'a göre komutları işlemeye başlayacak.
 
@@ -19,7 +19,7 @@ Buraya kadar herşey tamam. Peki ya yazılımı güncellerseniz? İşte o zaman 
 
 Peki güncelledikten sonra eski sürümü kaldırırsanız ne olacak? O zaman da yolu bulamadığı için yeniden size Microsoft Store'u açıp duracak. Python'unuz var, yüklü, ama kullanamıyorsunuz. Nasıl? Sinir edici öyle değil mi?
 
-## Peki ne yapalım?: Ya temiz kurula, ya da Environment Variable değiştirile!
+### Peki ne yapalım?: Ya temiz kurula, ya da Environment Variable değiştirile!
 
 Aslında siz Python'u önce tamamen kaldırıp sonra yeniden temiz kurulum yapsaydınız bu problemler yaşanmayacaktı. O halde, Python'u komple kaldırıp kurmayı deneyebilirsiniz.
 
