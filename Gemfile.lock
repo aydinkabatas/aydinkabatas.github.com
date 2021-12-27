@@ -99,7 +99,7 @@ PLATFORMS
   x64-mingw32
 
 DEPENDENCIES
-  bundler (~> 2.2.10)
+  bundler (~> 2.2.33)
   minimal-mistakes-jekyll!
   rake (~> 13.0.3)
 
