@@ -13,7 +13,7 @@ Güncelledikten sonra güncel versiyonu kullanmadığımı fark ettim. Eski vers
 
 Öncelikle problemin asıl kaynağı, Windows. Eğer siz, hiç Python'u kurmadan PowerShell açıp "python" yazarsanız, öncelikle Microsoft Store içerisinde böyle bir uygulama var olup olmadığına bakacak, eğer varsa Microsoft Store'u açacak, yoksa komut satırında "Böyle bir komut bulunamadı" hatası döndürecek. Programı kurduktan sonra, program içerisinde eğer **"Çevre Değişkenlerine Ekle" (Add to Environment Variables)** seçeneğini etkinleştirdiyseniz kurulum dosyası Python'un kurulduğu klasörü Windows içerisine tanımlayacak. Böylece siz PowerShell içerisinde "python" yazdığınızda karşınıza o sempatik ">>>" işareti gelecek ve Python'a göre komutları işlemeye başlayacak.
 
-<img alt="Powershell-Python" src="../assets/images/python-powershell.png" style="width:80%; margin:0 auto; display:block" />
+<img alt="Powershell-Python" src="/assets/images/python-powershell.png" style="width:80%; margin:0 auto; display:block" />
 
 Buraya kadar herşey tamam. Peki ya yazılımı güncellerseniz? İşte o zaman da kullandığınız programlar (Visual Studio Code, PyCharm vs...), tanımlanan o Environment Variable Path'i izlemeye devam edecek. Sizin Python sürümünüz 3.9'dan 3.10'a çıksa da eski yolu izledikleri için eski sürümü çalıştırmaya devam edecek.
 
@@ -26,7 +26,7 @@ Aslında siz Python'u önce tamamen kaldırıp sonra yeniden temiz kurulum yapsa
 **"Ben üşengeçim kardeşim, kaldır-indir-kur uğraşamam"** diyenler için tavsiyem: Environment Variable'ları değiştirin. Windows 10 için arama kısmına "Çevre değişkenlerini düzenle" yazdığınızda ya da Bilgisayarım'a sağ tıklayıp **"özellikler > gelişmiş sistem ayarları > gelişmiş > çevre değişkenleri"** yolunu takip ederek ilgili pencereye ulaşabilirsiniz. Tablonun üst kısmında sizin kullanıcınız için geçerli olan **kullanıcı değişkenleri**, alt kısmında ise tüm kullanıcıları kapsayan **sistem değişkenleri** kısmı yer almakta. Herkesin kullanmasını istiyorsanız "Sistem Değişkenleri" tablosundaki **PATH** değişkenini bulup çift tıklayın. Eğer yoksa, **YENİ** diyerek oluşturabilirsiniz. Ardından Python dosyanızın bulunduğu dosya yolunu ve Script yolunu kopyalayın ve tabloya yapıştırın.
 
 
-<img alt="Environment-Variables" src="../assets/images/environment-variables.png" style="width:80%; margin:0 auto; display:block" />
+<img alt="Environment-Variables" src="/assets/images/environment-variables.png" style="width:80%; margin:0 auto; display:block" />
 
 
 ```
