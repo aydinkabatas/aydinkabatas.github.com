@@ -11,7 +11,7 @@ Güncelledikten sonra güncel versiyonu kullanmadığımı fark ettim. Eski vers
 
 ### Peki neden?: Environment Variables neden, Could'nt Find Python sonuçtur.
 
-Öncelikle problemin asıl kaynağı, Windows. Eğer siz, hiç Python'u kurmadan PowerShell açıp "python" yazarsanız, öncelikle Microsoft Store içerisinde böyle bir uygulama var olup olmadığına bakacak, eğer varsa Microsoft Store'u açacak, yoksa komut satırında "Böyle bir komut bulunamadı" hatası döndürecek. Programı kurduktan sonra, program içerisinde eğer **"Çevre Değişkenlerine Ekle" (Add to Environment Variables)** seçeneğini etkinleştirdiyseniz kurulum dosyası Python'un kurulduğu klasörü Windows içerisine tanımlayacak. Böylece siz PowerShell içerisinde "python" yazdığınızda karşınıza o sempatik ">>>" işareti gelecek ve Python'a göre komutları işlemeye başlayacak.
+Öncelikle problemin asıl kaynağı, Windows. Eğer siz, hiç Python'u kurmadan PowerShell açıp "python" yazarsanız, öncelikle Microsoft Store içerisinde böyle bir uygulama var olup olmadığına bakacak, eğer varsa Microsoft Store'u açacak, yoksa komut satırında "Böyle bir komut bulunamadı" hatası döndürecek. Programı kurduktan sonra, program içerisinde eğer **"Çevre Değişkenlerine Ekle" (Add to Environment Variables)** seçeneğini etkinleştirdiyseniz kurulum dosyası Python'un kurulduğu klasörü Windows içerisine tanımlayacak. Böylece siz PowerShell içerisinde "python" yazdığınızda karşınıza o sempatik "\>\>\>" işareti gelecek ve Python'a göre komutları işlemeye başlayacak.
 
 <img alt="Powershell-Python" src="/assets/images/python-powershell.png" style="width:80%; margin:0 auto; display:block" />
 
