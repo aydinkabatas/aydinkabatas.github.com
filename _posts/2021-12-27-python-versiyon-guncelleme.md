@@ -33,4 +33,4 @@ Aslında siz Python'u önce tamamen kaldırıp sonra yeniden temiz kurulum yapsa
 Not: Genellikle yol şu şekilde > "C:\Users\[username]]\AppData\Local\Programs\Python\[python.vers]]" ve "C:\Users\[username]]\AppData\Local\Programs\Python\[python.vers]]\Script"
 ```
 
-Sonrasında oturumunuzu kapatıp açmanız yeterli. Bu yöntem bir çok *"öntanımlı programın eski versiyonu çalıştırmaya devam ettiği"* senaryoda kullanılabilir.
+Sonrasında oturumunuzu kapatıp açmanız yeterli. Bu yöntem bir çok *"öntanımlı programın eski versiyonu çalıştırmaya devam ettiği"* senaryoda kullanılabilir. (Err47)
