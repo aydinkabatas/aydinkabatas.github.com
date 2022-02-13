@@ -12,7 +12,7 @@ main:
   #   url: /dizitavsiyeleri/
    - title: "Hakkında"
      url: /hakkinda/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
+   - title: "Faydalı Linkler"
+     URL: /links/	
   # - title: "Sitemap"
   #   url: /sitemap/
