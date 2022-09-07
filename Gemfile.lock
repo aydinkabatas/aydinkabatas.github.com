@@ -16,7 +16,7 @@ GEM
       i18n (~> 0.7)
       minitest (~> 5.1)
       thread_safe (~> 0.3, >= 0.3.4)
-      tzinfo (~> 1.1)
+      tzinfo (~> 1.2.10)
     addressable (2.8.0)
       public_suffix (>= 2.0.2, < 4.0)
     colorator (1.1.0)
@@ -91,7 +91,7 @@ GEM
       addressable (>= 2.8.0, < 3.0)
       faraday (~> 0.8, < 1.0)
     thread_safe (0.3.6)
-    tzinfo (1.2.4)
+    tzinfo (1.2.10)
       thread_safe (~> 0.1)
 
 PLATFORMS
