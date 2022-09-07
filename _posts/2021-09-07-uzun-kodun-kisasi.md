@@ -262,4 +262,4 @@ Veri Madenciliği yapmak için Microsoft'un sitesinde eklenti olarak bulunan "**
 
 ----------
 
-İşte böyle... İşimi yaparken beni hızlandıran ipuçları bunlar. Aralarında yeni duyduğunuz yöntemler olduysa ne mutlu bana 😊.
+İşte böyle. İşimi yaparken beni hızlandıran ipuçları bunlar. Aralarında yeni duyduğunuz yöntemler olduysa ne mutlu bana 😊.
