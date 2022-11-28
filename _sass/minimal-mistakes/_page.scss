@@ -415,3 +415,10 @@
   font-size: $type-size-6;
   text-transform: uppercase;
 }
+
+/*
+   CUSTOM CODES
+   ========================================================================== */
+.mjx-container{
+    overflow-x: scroll;
+    white-space: nowrap;}
