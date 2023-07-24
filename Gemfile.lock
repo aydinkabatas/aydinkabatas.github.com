@@ -100,6 +100,3 @@ PLATFORMS
 DEPENDENCIES
   bundler (~> 2.2.33)
   rake (~> 13.0.3)
-
-BUNDLED WITH
-   1.16.0.pre.2
