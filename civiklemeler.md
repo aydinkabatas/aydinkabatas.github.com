@@ -9,8 +9,8 @@ Sanırım tasarımı oturttum. Şimdi sırada saat, tarih ve çizgiyi otomatik y
 
 Not: Tabi ki arşivleme nedir ve nasıl yapılır biliyorum. Sadece, bir md dosyasını pratik nasıl saklayabilirim kısmındayım. Vesselam...
 <hr style="display: inline-block; height: 1px; border: 0;border-top: 1px solid #ccc;float: left; width: 80%; line-height: 2em; margin: -0.2em 0em 1em 0em;">
-<div style="display: inline-block; width:19%; float:left; text-align:left; font-size:0.65em; margin: -0.2em 0em 1em 0em;">18.04.2024 | 08:34</div>
+<div style="display: inline-block;width:19%;float:left;text-align:left;font-size:0.65em;margin: -1em 0em 1em 1%;">18.04.2024 | 08:34</div>
 
 Bir şeyler deniyorum ve bu benim ilk postum!
 <hr style="display: inline-block; height: 1px; border: 0;border-top: 1px solid #ccc;float: left; width: 80%; line-height: 2em; margin: -0.2em 0em 1em 0em;">
-<div style="display: inline-block; width:19%; float:left; text-align:left; font-size:0.65em; margin: -0.2em 0em 1em 0em;">17.04.2024 | Na:Na</div>
+<div style="display: inline-block;width:19%;float:left;text-align:left;font-size:0.65em;margin: -1em 0em 1em 1%;">17.04.2024 | Na:Na</div>
