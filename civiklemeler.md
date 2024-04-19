@@ -13,7 +13,7 @@ Hazır konu arabalardan açılmışken, ben bir süredir araç bakıyorum. Hani 
 
 Bir diğer konu da bu sayfa hakkında. Artık "civiklemeler" adı altında kendi kafama göre, tıpkı X (eski Twitter) gibi bir paylaşım alanı oluşturdum. Çünkü bazen aklıma bir şey geliyor, yazmak istiyorum, ama yazacağım şey çok kısa ya da çok basit olduğundan vazgeçiyorum. X de açmak istemiyorum, çünkü beğenme, yorum, arkadaş ekleme, çıkartma, keşfetme gibi sosyal medyanın **zehiri** diyebileceğim alanlarından kendimi arındırmak istiyorum. Burada bir sol frame yok, bir gündem yok, bir sonraki paylaşımda ne yazdığı yok, kaç beğeni gelmiş, kaç kötü yorum gelmiş, ama öyle miymiş, böyle miymiş vesaire... Hiçbiri yok. Sosyal medya insanın bilinç altını zehirliyor. Mümkün olduğunca o zehre az maruz kalmaya çalışıyorum. Civiklemeler ismi de aslında Twitter'dan gelme. "Tweet" aslında "kuş cıvıltısı" demek. Eh, benim blog içerisindeki bu sayfanın içerikleri de sadece **meraklısına gider** olduğu için cıvıltı olsa olsa civikleme olur diye düşündüm (bu yazıyı okurken yavru kuş/civciv hayal edin). Şu an için bir ara yazılım yazmadım. Yazdığımda sadece yazıyı gireceğim, o yazı da otomatik olarak bu sayfanın yazısını güncelleyecek ve üste ayırıcı kodunu atıp gönderdiğim postu ekleyecek. Bir müddet manuel tabiri caiz ise amelelik yapacağım anlayacağınız.
 
-Ah bir boş zamanım olsa... Sahi... Bunları hangi ara yazıyorum ben ya?
+Ah bir boş zamanım olsa... Sahi, bunları hangi ara yazıyorum ben ya?
 
 
 <hr style="display: inline-block; height: 1px; border: 0; border-top: 1px solid #ccc; float: left; width: 84%; line-height: 2em; margin: 1em 0em 1em 0em;">
