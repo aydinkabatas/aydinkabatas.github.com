@@ -16,15 +16,15 @@ Bir diğer konu da bu sayfa hakkında. Artık "civiklemeler" adı altında kendi
 Ah bir boş zamanım olsa... Sahi, bunları hangi ara yazıyorum ben ya?
 
 
-<hr style="display: inline-block; height: 1px; border: 0; border-top: 1px solid #ccc; float: left; width: 84%; line-height: 2em; margin: 1em 0em 1em 0em;">
-<div style="display: inline-block; width:15%; float:left; text-align:right; font-size:0.65em; margin: 0.8em 0em 1em 1%;">19.04.2024 | 15:34</div>
+<hr style="display: inline-block; height: 1px; border: 0; border-top: 1px solid #ccc; float: left; width: 84%; margin: 0em 0em 2em 0em;">
+<div style="display: inline-block; width:15%; float:left; text-align:right; font-size:0.65em; margin: -0.8em 0em 2.5em 1%;">19.04.2024 | 16:13</div>
 
 Sanırım tasarımı oturttum. Şimdi sırada saat, tarih ve çizgiyi otomatik yapmaya geldi. Muhtemelen bir ara program ile bu sayfayı güncelleyerek push edeceğim. Tek sıkıntım, belirli bir zaman sonra eski girdileri nasıl arşivleyeceğim konusu... Eh malum, bir sayfada 1000 tane civikleme can sıkar.
 
 Not: Tabi ki arşivleme nedir ve nasıl yapılır biliyorum. Sadece, bir md dosyasını pratik nasıl saklayabilirim kısmındayım. Vesselam...
-<hr style="display: inline-block; height: 1px; border: 0;border-top: 1px solid #ccc;float: left; width: 84%; line-height: 2em; margin: 1em 0em 1em 0em;">
-<div style="display: inline-block;width:15%;float:left;text-align:right;font-size:0.65em;margin: 0.8em 0em 1em 1%;">18.04.2024 | 08:34</div>
+<hr style="display: inline-block; height: 1px; border: 0; border-top: 1px solid #ccc; float: left; width: 84%; margin: 0em 0em 2em 0em;">
+<div style="display: inline-block; width:15%; float:left; text-align:right; font-size:0.65em; margin: -0.8em 0em 2.5em 1%;">18.04.2024 | 08:34</div>
 
 Bir şeyler deniyorum ve bu benim ilk postum!
-<hr style="display: inline-block; height: 1px; border: 0;border-top: 1px solid #ccc;float: left; width: 84%; line-height: 2em; margin: 1em 0em 1em 0em;">
-<div style="display: inline-block;width:15%;float:left;text-align:right;font-size:0.65em;margin: 0.8em 0em 1em 1%;">17.04.2024 | Na:Na</div>
+<hr style="display: inline-block; height: 1px; border: 0; border-top: 1px solid #ccc; float: left; width: 84%; margin: 0em 0em 2em 0em;">
+<div style="display: inline-block; width:15%; float:left; text-align:right; font-size:0.65em; margin: -0.8em 0em 2.5em 1%;">17.04.2024 | Na:Na</div>
