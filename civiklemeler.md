@@ -5,7 +5,7 @@ permalink: /civiklemeler/
 author_profile: true
 ---
 
-Kulağımız Ankara'da. Dinliyoruz seni Ankara ! Güzel haberler, tez zamanda...
+Kulağımız Ankara'da. Güzel haberler, tez zamanda.
 
 <hr style="display: inline-block; height: 1px; border: 0; border-top: 1px solid #ccc; float: left; width: 84%; margin: 0em 0em 2em 0em;">
 <div style="display: inline-block; width:15%; float:left; text-align:right; font-size:0.65em; margin: -0.8em 0em 2.5em 1%;">25.04.2024 | 14:12</div>
