@@ -5,6 +5,11 @@ permalink: /civiklemeler/
 author_profile: true
 ---
 
+Vay be, meğer istatistik özel sektörde kullanılan bir şeymiş. İlk defa tahminleme ile ilgili bir konuda fikrim alındı ve ARIMA ile ilgili soru soruldu. Profesyonel tahminleme yapan şirketlere saygılar ve sevgiler. 
+
+<hr style="display: inline-block; height: 1px; border: 0; border-top: 1px solid #ccc; float: left; width: 84%; margin: 0em 0em 2em 0em;">
+<div style="display: inline-block; width:15%; float:left; text-align:right; font-size:0.65em; margin: -0.8em 0em 2.5em 1%;">29.04.2024 | 16:46</div>
+
 Kulağımız Ankara'da. Güzel haberler, tez zamanda.
 
 <hr style="display: inline-block; height: 1px; border: 0; border-top: 1px solid #ccc; float: left; width: 84%; margin: 0em 0em 2em 0em;">
