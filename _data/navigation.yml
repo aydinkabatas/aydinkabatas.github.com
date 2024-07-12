@@ -16,5 +16,5 @@ main:
      url: /links/	
    - title: "Civiklemeler"
      url: /civiklemeler/
-   - title: "Saygıyı Hakedenler"
-     url: /saygilarimla/
+   #- title: "Saygıyı Hakedenler"
+   #  url: /saygilarimla/
