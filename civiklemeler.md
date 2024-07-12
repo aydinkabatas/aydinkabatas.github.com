@@ -5,6 +5,11 @@ permalink: /civiklemeler/
 author_profile: true
 ---
 
+Sayın [haberler.com]("https://www.haberler.com/ekonomi/epdk-kacak-elektrikle-mucadelede-yeni-tedbirleri-acikladi-17509709-haberi/") editörleri, taslak yönetmeliğin hiçbir yerinde *"Ancak hak sahibine ulaşılamayan hallerde oluşan toplam meblağ, bütün Türkiye'nin faydasına olacak şekilde tarifeden düşmek suretiyle tüm tüketicilere tarife düşüşü olarak yansıtılacak"* diye bir ibare yok. Sadece bir sonraki yılın Şubat TÜFE'si hesaplanarak Mart döneminde bildirilmesine ve sonrasında talep edilen güvence bedelinin iadesinin de 29. madde kapsamında iade edilmesine ilişkin madde var. Taslak metni bir daha okumaya davet ediyorum.
+
+<hr style="display: inline-block; height: 1px; border: 0; border-top: 1px solid #ccc; float: left; width: 84%; margin: 0em 0em 2em 0em;">
+<div style="display: inline-block; width:15%; float:left; text-align:right; font-size:0.65em; margin: -0.8em 0em 2.5em 1%;">12.07.2024 | 12:38</div>
+
 Tembel güncellemesi:
 
 ```python
