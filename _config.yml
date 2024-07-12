@@ -28,8 +28,7 @@ comments:
     shortname            : "aydinkabatas-github-io" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
-  facebook:
-    # https://developers.facebook.com/docs/plugins/comments
+  facebook               : # https://developers.facebook.com/docs/plugins/comments
     appid                :
     num_posts            : 10 #(default)
     colorscheme          : "dark"
@@ -99,6 +98,7 @@ author:
   instagram        : #"aydin.kabatas"
   lastfm           :
   linkedin         : "aydin-kabatas/"
+    icon           : "https://cdn-icons-png.freepik.com/256/123/123718.png"
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
