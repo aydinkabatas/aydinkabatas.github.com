@@ -5,6 +5,14 @@ permalink: /civiklemeler/
 author_profile: true
 ---
 
+Tembel araması:
+
+```sql
+SELECT * FROM INFORMATION_SCHEMA.COLUMNS WHERE COLUMN_NAME LIKE '%ETSO%'
+```
+<hr style="display: inline-block; height: 1px; border: 0; border-top: 1px solid #ccc; float: left; width: 84%; margin: 0em 0em 2em 0em;">
+<div style="display: inline-block; width:15%; float:left; text-align:right; font-size:0.65em; margin: -0.8em 0em 2.5em 1%;">20.08.2024 | 10:06</div>
+
 [Postman](https://www.postman.com/){:target="_blank"}'ı keşfetmenin verdiği mutluluk. ❤
 
 <hr style="display: inline-block; height: 1px; border: 0; border-top: 1px solid #ccc; float: left; width: 84%; margin: 0em 0em 2em 0em;">
