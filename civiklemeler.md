@@ -5,7 +5,12 @@ permalink: /civiklemeler/
 author_profile: true
 ---
 
-Karar No: 12989 uygulama sonrası halkta oluşacak cümbüşü heyecanla bekliyorum. <3
+Ben matematik-istatistik ve yazılım ile daha çok ilgilenmek istedikçe hayat üzerime "mevzuat" atıyor...
+
+<hr style="display: inline-block; height: 1px; border: 0; border-top: 1px solid #ccc; float: left; width: 84%; margin: 0em 0em 2em 0em;">
+<div style="display: inline-block; width:15%; float:left; text-align:right; font-size:0.65em; margin: -0.8em 0em 2.5em 1%;">11.02.2025 | 13:46</div>
+
+Karar No: 12989 uygulama sonrası halkta oluşacak cümbüşü heyecanla bekliyorum. ❤
 
 <hr style="display: inline-block; height: 1px; border: 0; border-top: 1px solid #ccc; float: left; width: 84%; margin: 0em 0em 2em 0em;">
 <div style="display: inline-block; width:15%; float:left; text-align:right; font-size:0.65em; margin: -0.8em 0em 2.5em 1%;">19.11.2024 | 12:09</div>
