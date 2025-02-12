@@ -5,6 +5,11 @@ permalink: /civiklemeler/
 author_profile: true
 ---
 
+Her güzel şey gibi [bunun](https://learn.microsoft.com/tr-tr/azure-data-studio/whats-happening-azure-data-studio){:target="_blank"} da fişini çek Microsoft, aferin...
+
+<hr style="display: inline-block; height: 1px; border: 0; border-top: 1px solid #ccc; float: left; width: 84%; margin: 0em 0em 2em 0em;">
+<div style="display: inline-block; width:15%; float:left; text-align:right; font-size:0.65em; margin: -0.8em 0em 2.5em 1%;">12.02.2025 | 09:00</div>
+
 Ben matematik-istatistik ve yazılım ile daha çok ilgilenmek istedikçe hayat üzerime "mevzuat" atıyor...
 
 <hr style="display: inline-block; height: 1px; border: 0; border-top: 1px solid #ccc; float: left; width: 84%; margin: 0em 0em 2em 0em;">
