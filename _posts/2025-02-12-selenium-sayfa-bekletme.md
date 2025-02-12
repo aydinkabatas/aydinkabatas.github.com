@@ -1,7 +1,7 @@
 ﻿---
 layout: single
 name: selenium-ile-her-aksiyonda-sayfa-yenilemesi-yapan-javascript-kodunu-bekletme
-title: "Selenium <Python> içerisinde her aksiyonda sayfa yenilemesi yapan Javascript kodu için duraklatma."
+title: "Selenium <Python> içerisinde her aksiyonda sayfa yenilemesi yapan Javascript kodu için duraklatma"
 category: articles
 ---
 
