@@ -5,6 +5,15 @@ permalink: /civiklemeler/
 author_profile: true
 ---
 
+Askeri darbede korkusuzca dışarı çıkıp tankların önünde yatarken, sivil darbede protesto etmeksizin kahvelerimizi yudumluyoruz.
+
+Gerçi biz milliyetçi ve medyada karalanmamış olan Ümit Özdağ hapse atılırken ses çıkarmamış bir milletiz. Tabi ki karalanmış ve medya tarafından operasyon çekilen bir belediye başkanına sahip çıkmayacaktık, orası ayrı. Ama merak ediyorum, acaba **Bu adam diktatör** derken **Abartıyorsun** diyenler ne yapıyor şu anda. Kesin bizimle beraber kahvelerini yudumluyorlardır. 
+
+PasifizeSpor bu yıl da küme düşmedi. Tebrikler!
+
+<hr style="display: inline-block; height: 1px; border: 0; border-top: 1px solid #ccc; float: left; width: 84%; margin: 0em 0em 2em 0em;">
+<div style="display: inline-block; width:15%; float:left; text-align:right; font-size:0.65em; margin: -0.8em 0em 2.5em 1%;">19.03.2025 | 11:00</div>
+
 **Borsada sepet hayat kurtarır**'dan **Allah kurtarsın**'a geçiş hızımız muazzam.
 
 <hr style="display: inline-block; height: 1px; border: 0; border-top: 1px solid #ccc; float: left; width: 84%; margin: 0em 0em 2em 0em;">
