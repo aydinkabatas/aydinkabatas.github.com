@@ -5,6 +5,17 @@ permalink: /civiklemeler/
 author_profile: true
 ---
 
+
+1 Mayıs'ı işçi bayramı olmaktan çıkaralım. 1 Mayıs, beyaz yakalı ve müdür bayramı olsun. Hadi en kötü, "1 Mayıs işçiye çift mesai bayramı" olsun. Etrafımda hiçbir işçinin bayram/tatil yaptığını görmüyorum/göremedim...
+
+<hr style="display: inline-block; height: 1px; border: 0; border-top: 1px solid #ccc; float: left; width: 84%; margin: 0em 0em 2em 0em;">
+<div style="display: inline-block; width:15%; float:left; text-align:right; font-size:0.65em; margin: -0.8em 0em 2.5em 1%;">01.05.2025 | 18:07</div>
+
+Çok önemli kararlar almak zorunda kaldığınızda "alacağın her kararı destekliyorum" diyen, "mükemmeli boşver, iyi de bana yeter" diyen bir eşiniz varsa hayat daha yaşanılası oluyor.
+
+<hr style="display: inline-block; height: 1px; border: 0; border-top: 1px solid #ccc; float: left; width: 84%; margin: 0em 0em 2em 0em;">
+<div style="display: inline-block; width:15%; float:left; text-align:right; font-size:0.65em; margin: -0.8em 0em 2.5em 1%;">29.04.2025 | 20:16</div>
+
 Liyakat desen var...
 
 <hr style="display: inline-block; height: 1px; border: 0; border-top: 1px solid #ccc; float: left; width: 84%; margin: 0em 0em 2em 0em;">
