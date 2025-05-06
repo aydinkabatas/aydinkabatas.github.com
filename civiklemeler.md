@@ -5,6 +5,10 @@ permalink: /civiklemeler/
 author_profile: true
 ---
 
+Direkt bana görev olarak atılmış 70 mail karşısında türk kahvemi yudumluyorum. Evet...
+
+<hr style="display: inline-block; height: 1px; border: 0; border-top: 1px solid #ccc; float: left; width: 84%; margin: 0em 0em 2em 0em;">
+<div style="display: inline-block; width:15%; float:left; text-align:right; font-size:0.65em; margin: -0.8em 0em 2.5em 1%;">06.05.2025 | 15:18</div>
 
 1 Mayıs'ı işçi bayramı olmaktan çıkaralım. 1 Mayıs, beyaz yakalı ve müdür bayramı olsun. Hadi en kötü, "1 Mayıs işçiye çift mesai bayramı" olsun. Etrafımda hiçbir işçinin bayram/tatil yaptığını görmüyorum/göremedim...
 
